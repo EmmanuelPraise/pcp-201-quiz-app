@@ -1,6 +1,6 @@
 [
     {
-        "question": "A good example of insects that",
+        "question": "A good example of insects that boreholes into stored produce are:",
         "options": [
             "Worms",
             "Mosquitoes",
@@ -11,7 +11,7 @@
         "answer": "Weevils"
     },
     {
-        "question": "Biting and chewing insects that damage",
+        "question": "Biting and chewing insects that damage agricultural produce are:",
         "options": [
             "Grasshoppers",
             "Aphids",
@@ -22,7 +22,7 @@
         "answer": "Grasshoppers"
     },
     {
-        "question": "Piercing and sucking insects of",
+        "question": "Piercing and sucking insects of economic importance to agriculture are:",
         "options": [
             "Aphids",
             "Termites",
@@ -33,7 +33,7 @@
         "answer": "Aphids"
     },
     {
-        "question": "The following are methods of",
+        "question": "The following are methods of controlling insect except ",
         "options": [
             "Cultural",
             "Chemical",
@@ -44,7 +44,7 @@
         "answer": "Mechanical"
     },
     {
-        "question": "Under cultural method of pest control",
+        "question": "Under cultural method of pest control all except one is correct ",
         "options": [
             "Timely planting",
             "Crop rotation",
@@ -55,7 +55,7 @@
         "answer": "Insect spraying"
     },
     {
-        "question": "Using chemicals all except one can",
+        "question": "Using chemicals all except one can occur",
         "options": [
             "Damage to beneficial organisms by fire",
             "Spraying insect can easily wipe them out",
@@ -66,7 +66,7 @@
         "answer": "Damage to beneficial organisms by fire"
     },
     {
-        "question": "A major side-effect of chemical method",
+        "question": "A major side-effect of chemical method of pest control is:",
         "options": [
             "Pest and diseases may develop",
             "Chemicals could be very expensive",
@@ -77,7 +77,6 @@
         "answer": "Pest and diseases may develop"
     },
     {
-        "question": "Biological method of control involves",
         "options": [
             "Use of traps to control the pests",
             "Use of natural enemies of the pests",
@@ -99,7 +98,7 @@
         "answer": "Use of traps and hunting of the pests"
     },
     {
-        "question": "Rice weevil is a pest of stored produce",
+        "question": "Rice weevil is a pest of stored produce known as:",
         "options": [
             "Sitophilus oryzae",
             "Sitophilus zea mays",
@@ -110,7 +109,6 @@
         "answer": "Sitophilus oryzae"
     },
     {
-        "question": "Beans bettle is also known as",
         "options": [
             "Callosobruchus zea mays",
             "Callosobruchus oryzae",
@@ -121,7 +119,6 @@
         "answer": "Callosobruchus maculatus"
     },
     {
-        "question": "Maize weevil is also known as",
         "options": [
             "Sitophilus oryzae",
             "Sitophilus maydis",
@@ -132,7 +129,7 @@
         "answer": "Sitophilus zea mays"
     },
     {
-        "question": "Agricultural grain produce could be",
+        "question": "Agricultural grain produce could be store in one of the following ways:",
         "options": [
             "Through air-tight condition after sun\u0002drying",
             "Use of sprays",
@@ -143,7 +140,7 @@
         "answer": "Through air-tight condition after sun\u0002drying"
     },
     {
-        "question": "One of the following is a major chemical",
+        "question": "One of the following is a major chemical for storing grain produce against pests",
         "options": [
             "Phoshatic solution",
             "Phosphate rock",
@@ -154,7 +151,7 @@
         "answer": "Phostoxin"
     },
     {
-        "question": "All except one are economic",
+        "question": "All except one are economic importance of insect pests of crops ",
         "options": [
             "Destruction of crop on the field",
             "Reduction of viability of stored ;produce",
@@ -165,7 +162,6 @@
         "answer": null
     },
     {
-        "question": "The rice plant is also known as:",
         "options": [
             "Oryza ricea L",
             "Oryza rice L",
@@ -176,7 +172,7 @@
         "answer": "Oryza sativa L"
     },
     {
-        "question": "Maize spacing of 75cm x 25cm is for",
+        "question": " Maize spacing of 75cm x 25cm is for<C+> One plant per stand",
         "options": [
             "One plant per stand",
             "Two plants per stand",
@@ -187,7 +183,7 @@
         "answer": "One plant per stand"
     },
     {
-        "question": "A maize plant population density with",
+        "question": " A maize plant population density with three plants per stand will be spaced thus:",
         "options": [
             "75cm x 25cm",
             "75cm x 20cm",
@@ -198,7 +194,7 @@
         "answer": "75cm x 75cm"
     },
     {
-        "question": "The optimum plant population density",
+        "question": " The optimum plant population density using one plant per stand will be:",
         "options": [
             "50,333.00",
             "51,333.00",
@@ -209,7 +205,7 @@
         "answer": "53,333.00"
     },
     {
-        "question": "The optimum plant population density",
+        "question": " The optimum plant population density using two plants per stand will be:",
         "options": [
             "52,222.00",
             "55,555.00",
@@ -220,7 +216,7 @@
         "answer": "53,333.00"
     },
     {
-        "question": "The optimum plant population density",
+        "question": " The optimum plant population density using three plants per stand will be:",
         "options": [
             "33,333.00",
             "52,222.00",
@@ -231,7 +227,7 @@
         "answer": "53,333.00"
     },
     {
-        "question": "A maize plot of 3m x 3m planted on flat",
+        "question": " A maize plot of 3m x 3m planted on flat will have _ rows of maize using 75cm",
         "options": [
             "Three rows",
             "Four rows",
@@ -242,7 +238,7 @@
         "answer": "Five rows"
     },
     {
-        "question": "Planting on the flat, a 3m x3m maize",
+        "question": " Planting on the flat, a 3m x3m maize plot using 75cm x 25cm will have _ numbers",
         "options": [
             "Twelve stands",
             "Thirteen stands",
@@ -253,7 +249,7 @@
         "answer": "Thirteen stands"
     },
     {
-        "question": "Using a 3m x 3m plot with 75cm x",
+        "question": " Using a 3m x 3m plot with 75cm x 25cm spacing,how many stands of maize",
         "options": [
             "50 stands",
             "55 stands",
@@ -264,7 +260,6 @@
         "answer": "65 stands"
     },
     {
-        "question": "Soyabean is also known as",
         "options": [
             "Glycine maximum (L) Merril",
             "Glycine maxima (L) Merril",
@@ -275,7 +270,7 @@
         "answer": "Glycine max (L) Merril"
     },
     {
-        "question": "Okra is also known as",
+        "question": " Okra is also known as <C+> Abelemoscus esculentum L ",
         "options": [
             "Abelemoscus esculentum L",
             "Abelemoscus esculentum mill",
@@ -286,7 +281,6 @@
         "answer": "Abelemoscus esculentum L"
     },
     {
-        "question": "Maize is also known as",
         "options": [
             "Zea maydis L",
             "Zea may L",
@@ -308,7 +302,6 @@
         "answer": "between two rows of crop(S)"
     },
     {
-        "question": "intrarow is the space:",
         "options": [
             "between two rows of crop(S)",
             "between two crops",
@@ -319,7 +312,7 @@
         "answer": "between crop(s) on a row"
     },
     {
-        "question": "The interrow and intrarow spacing for",
+        "question": " The interrow and intrarow spacing for low land rice is ",
         "options": [
             "25cm x 25cm",
             "20cm x 30cm",
@@ -330,7 +323,7 @@
         "answer": "20cm x 20cm"
     },
     {
-        "question": "To plant low land rice, the best planting",
+        "question": " To plant low land rice, the best planting materials to use are:",
         "options": [
             "Seeds",
             "Stem",
@@ -341,7 +334,7 @@
         "answer": "Seedlings"
     },
     {
-        "question": "The best planting instruments used to",
+        "question": " The best planting instruments used to get correct spacing in low land rice planting",
         "options": [
             "planting rope and board",
             "plant baord and sticks",
@@ -352,7 +345,7 @@
         "answer": "planting rope and board"
     },
     {
-        "question": "The following include some growth",
+        "question": " The following include some growth parameters to be taken for growth analysis",
         "options": [
             "Leaf area",
             "Plant height",
@@ -363,7 +356,7 @@
         "answer": "Cob length"
     },
     {
-        "question": "Removal of excess less vigorous plants",
+        "question": " Removal of excess less vigorous plants from a stand is field practice termed",
         "options": [
             "Tinning",
             "Thinning",
@@ -374,7 +367,7 @@
         "answer": "Thinning"
     },
     {
-        "question": "Replacement of missing plant from a",
+        "question": " Replacement of missing plant from a stand is a field practice termed",
         "options": [
             "Supplementation",
             "Supplying",
@@ -385,7 +378,7 @@
         "answer": "Supplying"
     },
     {
-        "question": "The space left around each plot on the",
+        "question": " The space left around each plot on the field is called",
         "options": [
             "Walk way",
             "Path way",
@@ -396,7 +389,7 @@
         "answer": "Walk way"
     },
     {
-        "question": "Use of labels on the field are essential",
+        "question": " Use of labels on the field are essential to provide information on:",
         "options": [
             "Different treatment combination per",
             "One treatment only per plot",
@@ -407,7 +400,6 @@
         "answer": "Different treatment combination per"
     },
     {
-        "question": "Roeging is a farm practise whereby",
         "options": [
             "A diseased plant is identified",
             "A healthy plant is identified",
@@ -418,7 +410,7 @@
         "answer": "A diseased plant is identified,removed"
     },
     {
-        "question": "A short duration okro plant could be",
+        "question": " A short duration okro plant could be spaced thus:",
         "options": [
             "75cm x 25",
             "75cm x 20",
@@ -429,7 +421,7 @@
         "answer": "75cm x 50"
     },
     {
-        "question": "Fertilizer appliction should be done",
+        "question": "Fertilizer appliction should be done usually ",
         "options": [
             "After weeding only in maize",
             "After weeding and spraying in maize",
@@ -440,7 +432,7 @@
         "answer": "After weeding and thinning in maize"
     },
     {
-        "question": "...... is the first cultural practise in crop",
+        "question": " ...... is the first cultural practise in crop production",
         "options": [
             "Ploughing of the field",
             "Weeding operation",
@@ -451,7 +443,6 @@
         "answer": "Site selection"
     },
     {
-        "question": "The best way to store groundnut is to:",
         "options": [
             "Store in jute bags",
             "Dry properly and store in jute bags",
@@ -462,7 +453,7 @@
         "answer": "Dry properly and store in jute bags"
     },
     {
-        "question": "A major problem with use of resistant",
+        "question": "A major problem with use of resistant varieties in pest control is:",
         "options": [
             "Cost of purchasing resistant varieties",
             "Unavailability of stock",
@@ -473,7 +464,7 @@
         "answer": "Failure in ability to maintain resistance"
     },
     {
-        "question": "Close season practise is majorly aimed",
+        "question": "Close season practise is majorly aimed at:",
         "options": [
             "Reducing pest population/infestation",
             "Ensuring a close in farm activities in the",
@@ -484,7 +475,6 @@
         "answer": "Reducing pest population/infestation"
     },
     {
-        "question": "Control burning of plant residue is a",
         "options": [
             "Physical method of pest control",
             "Mechanical method of pest control",
@@ -495,7 +485,7 @@
         "answer": "Cultural method of pest control"
     },
     {
-        "question": "Uncontrolled insect-pest infestation can",
+        "question": "Uncontrolled insect-pest infestation can cause",
         "options": [
             "Reduction in photosynthesis",
             "Root population reduction",
@@ -506,7 +496,7 @@
         "answer": "Total yield loss"
     },
     {
-        "question": "Uncontrolled bush burning can cause",
+        "question": "Uncontrolled bush burning can cause essentially ",
         "options": [
             "Increase in cost of farm produce",
             "Loss of soil nutrient through",
@@ -517,7 +507,7 @@
         "answer": "Loss of soil nutrient through"
     },
     {
-        "question": "Reduction in vegetabble quality could",
+        "question": "Reduction in vegetabble quality could be caused by:",
         "options": [
             "Late planting of leafy vegetables",
             "Lack of production technique",
@@ -528,7 +518,7 @@
         "answer": "Defoliation activities of bugs"
     },
     {
-        "question": "Use of two or more control methods to",
+        "question": "Use of two or more control methods to achieve effective pest control is termed:",
         "options": [
             "Biological",
             "Chemical",
@@ -539,7 +529,7 @@
         "answer": "IPM"
     },
     {
-        "question": "Fencing and setting of traps are both ---",
+        "question": "Fencing and setting of traps are both -------- Method of pest control:",
         "options": [
             "Physical",
             "Biological",
@@ -550,7 +540,7 @@
         "answer": "Physical"
     },
     {
-        "question": "Stored produce are often attacked by",
+        "question": "Stored produce are often attacked by one of the following pests:",
         "options": [
             "Aphids",
             "Termites",
@@ -561,7 +551,7 @@
         "answer": "Weevils"
     },
     {
-        "question": "With cultural method of pest control all",
+        "question": "With cultural method of pest control all except one is not correct ",
         "options": [
             "use of resistant cultivars",
             "Crop rotation",
@@ -572,7 +562,7 @@
         "answer": "Planting with pest repelants"
     },
     {
-        "question": "Use of cultural pest control method is",
+        "question": " Use of cultural pest control method is most",
         "options": [
             "Environmental friendly",
             "Less environmental friendly",
@@ -583,7 +573,7 @@
         "answer": "Environmental friendly"
     },
     {
-        "question": "One of the major side-effects of",
+        "question": "One of the major side-effects of chemical method of pest control is that:",
         "options": [
             "It is most environmentally unfriendly",
             "Chemicals could be very expensive",
@@ -594,7 +584,7 @@
         "answer": "It is most environmentally unfriendly"
     },
     {
-        "question": "Yam as an agricultural produce could be",
+        "question": "Yam as an agricultural produce could be stored culturally in one of the following",
         "options": [
             "Through air-tight condition after sun\u0002drying",
             "Use of sprays",
@@ -605,7 +595,7 @@
         "answer": "Through dry pit underground storage"
     },
     {
-        "question": "One of the following is a major chemical",
+        "question": "One of the following is a major chemical for controlling soil borne pests ",
         "options": [
             "Phoshatic solution",
             "Phosphate rock",
@@ -616,7 +606,7 @@
         "answer": "Furadan"
     },
     {
-        "question": "All except one are economic",
+        "question": "All except one are economic importance of insect pests of crops ",
         "options": [
             "Destruction of crop on the field",
             "Reduction of viability of stored ;produce",
@@ -627,7 +617,6 @@
         "answer": null
     },
     {
-        "question": "Cowpea is also known as:",
         "options": [
             "Vigna unguiculata (L) Beans",
             "Vigna unguiculata (L) Walps",
@@ -638,7 +627,7 @@
         "answer": "Vigna unguiculata (L) Walps"
     },
     {
-        "question": "A maize plant population density with",
+        "question": " A maize plant population density with two plants per stand will be spaced thus:",
         "options": [
             "75cm x 25cm",
             "75cm x 20cm",
@@ -649,7 +638,7 @@
         "answer": "75cm x 50cm"
     },
     {
-        "question": "Farm structures are buildings and",
+        "question": "Farm structures are buildings and facilities designed for specific purpose",
         "options": [
             "They are special buildings designed for",
             "They are special building design for",
@@ -660,7 +649,7 @@
         "answer": "a,b,c&d"
     },
     {
-        "question": "Farm structure are generally classified",
+        "question": " Farm structure are generally classified based on materials of construction such as",
         "options": [
             "The materials of construction are",
             "The materials of construction are",
@@ -671,7 +660,7 @@
         "answer": "a, b&c"
     },
     {
-        "question": "Farm houses provide exclusive",
+        "question": "Farm houses provide exclusive accommodation for both farmers and the",
         "options": [
             "Without facilities",
             "With special toilet facility",
@@ -682,7 +671,7 @@
         "answer": "c &d"
     },
     {
-        "question": "Farm house does the following",
+        "question": "Farm house does the following combination except ",
         "options": [
             "Protect against rain and sunshine",
             "Protect against cold and rain",
@@ -693,7 +682,7 @@
         "answer": "a,b & c"
     },
     {
-        "question": "Livestock structure play major role in",
+        "question": "Livestock structure play major role in regulating both internal and external",
         "options": [
             "The statement is only valid in rain forest",
             "The statement is only valid in savannah",
@@ -704,7 +693,7 @@
         "answer": "a, b & c"
     },
     {
-        "question": "Ability to regulate environmental",
+        "question": "Ability to regulate environmental conditions to optimum level is achieved",
         "options": [
             "Livestock structure",
             "Deep litters house",
@@ -715,7 +704,7 @@
         "answer": "farm structure"
     },
     {
-        "question": "Long and short storage of agricultural",
+        "question": "Long and short storage of agricultural materials is achieved through ",
         "options": [
             "Netted green house",
             "storage structure",
@@ -726,7 +715,6 @@
         "answer": "storage structure"
     },
     {
-        "question": "A good farm structure should be",
         "options": [
             "easily relocated from time to time",
             "accommodate expansion",
@@ -737,7 +725,6 @@
         "answer": "b&c"
     },
     {
-        "question": "Farm structure are best built when",
         "options": [
             "Materials are source outside locality of",
             "when materials is locally sources for",
@@ -748,7 +735,7 @@
         "answer": "when materials is locally sources for"
     },
     {
-        "question": "Livestock structure include the",
+        "question": "Livestock structure include the following ",
         "options": [
             "Basket",
             "Green cage",
@@ -759,7 +746,7 @@
         "answer": "a&c"
     },
     {
-        "question": "Farm mechanisation means",
+        "question": "Farm mechanisation means ",
         "options": [
             "Use of tractor to achieve a purpose on",
             "Use of sophisticated hand tools to carry",
@@ -770,7 +757,7 @@
         "answer": "a&c"
     },
     {
-        "question": "Machine is a device",
+        "question": "Machine is a device ",
         "options": [
             "with or without functional parts",
             "With two or more components",
@@ -781,7 +768,6 @@
         "answer": "With parts that move relative to one"
     },
     {
-        "question": "Primary tillage implements",
         "options": [
             "Work the soil to shallow depth",
             "Pulverise the soil",
@@ -792,7 +778,7 @@
         "answer": "non of the above"
     },
     {
-        "question": "Primary tillage include the following",
+        "question": "Primary tillage include the following machine ",
         "options": [
             "Disk harrow",
             "Row crop cultivator",
@@ -803,7 +789,7 @@
         "answer": "b&c"
     },
     {
-        "question": "Tillage operations have the ability to",
+        "question": "Tillage operations have the ability to control soil moisture in all ecology. ",
         "options": [
             "It is true in savannah zone",
             "t is true in rain forest zone",
@@ -814,7 +800,7 @@
         "answer": "a,b&c."
     },
     {
-        "question": "Tractor trailer is meant for",
+         "question": "Tractor trailer is meant for",
         "options": [
             "Carrying farm machine",
             "Carrying farm labour",
@@ -825,7 +811,7 @@
         "answer": "a &c"
     },
     {
-        "question": "Farm machineries use on the farm",
+        "question": " Farm machineries use on the farm include",
         "options": [
             "Tractor,plough,hand-harrows,rid\u0002planter",
             "Seed sheller,plough,tractor,hopper",
@@ -836,7 +822,7 @@
         "answer": "Bulldozer,harrows,planter,seed Sheller"
     },
     {
-        "question": "The two stages of land preparation for",
+        "question": "The two stages of land preparation for farming are",
         "options": [
             "primary tillage, secondary tellage",
             "Secondary tillage, primary-rotary tillage",
@@ -847,18 +833,17 @@
         "answer": "Primary tillage, secondary tillage"
     },
     {
-        "question": "Tractor coupled implements are",
         "options": [
             "Disk plough,diskcoupler,diskscraper",
             "Disk beam, disk furrow,disk scraper",
-            "Disk plough, mouldboard plough,",
+            "Disk plough, mouldboard plough",
             "Disk ploughshare,hitch-pointer,disk",
             "none of the above"
         ],
         "answer": "Disk plough, mouldboard plough,"
     },
     {
-        "question": "The function of beamor frame in disk",
+        "question": "The function of beamor frame in disk plough is",
         "options": [
             "To rotate and make vertical cut",
             "To hold concave disc in position",
@@ -869,9 +854,8 @@
         "answer": "To hold concave disc in position"
     },
     {
-        "question": "The seed sheller is operated",
         "options": [
-            "mechanically, electrically,",
+            "mechanically, electrically",
             "manually, electrically",
             "mechanically, manually electrically",
             "mechanically only",
@@ -880,7 +864,6 @@
         "answer": "mechanically, manually electrically"
     },
     {
-        "question": "Seed Sheller operation is to",
         "options": [
             "To separate the seeds from husk",
             "To remove and shell the seeds from",
@@ -891,9 +874,9 @@
         "answer": "It separate seeds from cob"
     },
     {
-        "question": "Parts of seed planter are",
+        "question": "Parts of seed planter are<c+>furrow opener, furrow covering device,",
         "options": [
-            "furrow opener, furrow covering device,",
+            "furrow opener, furrow covering device",
             "seed tube, nozzle, cover handle",
             "Wheeler rope screw pump furrow",
             "furrow covering device,hopper,wheeler",
@@ -902,7 +885,6 @@
         "answer": "furrow opener, furrow covering device,"
     },
     {
-        "question": "Tractor is use for",
         "options": [
             "To carry both shell and harvested fruits",
             "To transport farm workers",
@@ -913,7 +895,6 @@
         "answer": "To draw or pull farm implements."
     },
     {
-        "question": "Primary tillage implement are",
         "options": [
             "Mould board plough",
             "Disk plough",
@@ -924,7 +905,7 @@
         "answer": "a,b,c,&d"
     },
     {
-        "question": "Mention two secondary tillage",
+        "question": " Mention two secondary tillage implement ",
         "options": [
             "Harrow & plough",
             "Roller & Disk",
@@ -935,7 +916,7 @@
         "answer": "Ridger & planter"
     },
     {
-        "question": "------ is a powerful and expensive farm",
+        "question": " ------ is a powerful and expensive farm machine use for farm implement operation ",
         "options": [
             "Bulldozer",
             "Tree puller",
@@ -946,7 +927,7 @@
         "answer": "Tractor"
     },
     {
-        "question": "Common make and model of tractors",
+        "question": " Common make and model of tractors are",
         "options": [
             "David brown/tradia",
             "Massey ferguson/Hondia",
@@ -957,7 +938,7 @@
         "answer": "Ford /David brown"
     },
     {
-        "question": "------ Is used to carry farm inputs from",
+        "question": " ------ Is used to carry farm inputs from farm to farm ",
         "options": [
             "Rear axle",
             "Balancing weight",
@@ -968,7 +949,7 @@
         "answer": "tractor trailer"
     },
     {
-        "question": "------ Machine is used for bush clearing",
+        "question": " ------ Machine is used for bush clearing and tree felling for farm establishment",
         "options": [
             "Tractor",
             "Disc plough",
@@ -979,7 +960,6 @@
         "answer": "Tractor"
     },
     {
-        "question": "Name three parts of a disc plough",
         "options": [
             "Beam/frame/gong",
             "Beam/standard/furrow",
@@ -990,10 +970,10 @@
         "answer": "Beam/standard/furrow"
     },
     {
-        "question": "Tractor is a powerful and expensive",
+        "question": "Tractor is a powerful and expensive multipurpose farm machine used for lifting",
         "options": [
             "Ploughs and farm animals",
-            "Harrows, Planters, Harvesters, Ridgers,",
+            "Harrows, Planters, Harvesters, Ridgers",
             "Planters and Birds cages",
             "All of the above",
             "None of the above"
@@ -1001,21 +981,21 @@
         "answer": "Harrows, Planters, Harvesters, Ridgers,"
     },
     {
-        "question": "Common makes and model of Tractors",
+        "question": "Common makes and model of Tractors are:",
         "options": [
             "David Brown, Massey Ferguson, Ford",
             "John Brown, Massey Ford, Ferguson",
             "Rubber Brown, John Deere, Ford",
-            "John Rubber Brown, Massey Ford,",
+            "John Rubber Brown, Massey Ford",
             "John Deere, Ford Massey and John"
         ],
         "answer": "David Brown, Massey Ferguson, Ford"
     },
     {
-        "question": "Example of Farm Machines are:",
+        "question": " Example of Farm Machines are:",
         "options": [
-            "Tractor, Bulldozer, Tree Puller, Sheller,",
-            "Boom Sprayer, Tree Sheller, Harvester,",
+            "Tractor, Bulldozer, Tree Puller, Sheller",
+            "Boom Sprayer, Tree Sheller, Harvester",
             "None of the above",
             "Boom Sprayer, Tree Sheller type A and",
             "Boom Sprayer, Tree Sheller,Harvester,"
@@ -1023,7 +1003,7 @@
         "answer": "Tractor, Bulldozer, Tree Puller, Sheller,"
     },
     {
-        "question": "Example of Farm implements are:",
+      "question": " Example of Farm implements are:",
         "options": [
             "Tractor exhaust pipe, Tractor power",
             "Tractor Hydraulic control system",
@@ -1034,7 +1014,7 @@
         "answer": "None of the above"
     },
     {
-        "question": "Maintenance practices that can be",
+        "question": "Maintenance practices that can be carried out on the tractor include the",
         "options": [
             "Keep the tractor clean by removing all",
             "Check water level of the radiator daily",
@@ -1045,18 +1025,18 @@
         "answer": "All of the above"
     },
     {
-        "question": "Dryer is a farm Machine used to reduce",
+        "question": " Dryer is a farm Machine used to reduce moisture content of grains seeds like",
         "options": [
             "Maize, Soybean, Groundnut, Cowpea",
             "Tomato, Orange and Vegetable",
             "None of the above",
-            "Vegetable, Maize, Soybean,",
+            "Vegetable, Maize, Soybean",
             "Soybean, Groundnut and Wallnut"
         ],
         "answer": "Maize, Soybean, Groundnut, Cowpea"
     },
     {
-        "question": "There are two main types of ploughs",
+        "question": " There are two main types of ploughs these are:",
         "options": [
             "Disc plough and Mould board plough",
             "Mould Board Plough and Disc Ridger",
@@ -1067,9 +1047,9 @@
         "answer": "Disc plough and Mould board plough"
     },
     {
-        "question": "Parts of Disc plough are:",
+        "question": " Parts of Disc plough are:",
         "options": [
-            ") Standard, Beam, Disc, Furrow wheel,",
+            "Standard, Beam, Disc, Furrow wheel",
             "Frame, Beam, Stand, Hydraulic, Jack",
             "None of the above",
             "Standard, Beam, Hydraulic, Jack",
@@ -1089,18 +1069,18 @@
         "answer": "Flexible hose/ pipe cover lid pump"
     },
     {
-        "question": "Sheller is a processing machine used to",
+        "question": " Sheller is a processing machine used to separate dry grains at 10% moisture",
         "options": [
             "Maize,Cowpea,Soybean",
             "Cowpea ,Rice husk,Sowpea stand",
-            "Cowpea,Soybean , ,Rice husk,",
+            "Cowpea,Soybean,Rice husk",
             "Rice husk,Sowpea stand,Cowpea",
             "None of the above"
         ],
         "answer": "Maize,Cowpea,Soybean"
     },
     {
-        "question": ".....is the name of simple farm hand tool",
+        "question": ".....is the name of simple farm hand tool used for transplanting seedlings used for",
         "options": [
             "Hand Trowel",
             "Cutlass",
@@ -1111,18 +1091,18 @@
         "answer": "Hand Trowel"
     },
     {
-        "question": "Primary tillage implements are",
+        "question": " Primary tillage implements are<C+> Mould Board plough, Disc plough,",
         "options": [
-            "Mould Board plough, Disc plough,",
+            "Mould Board plough, Disc plough",
             "Rotary plough, Sub-surface plough, Disc",
-            "Rotary plough, Row crop cultivator,",
+            "Rotary plough, Row crop cultivator",
             "None of the above",
             "Mould Board plough, Disc plough and"
         ],
         "answer": "Mould Board plough, Disc plough,"
     },
     {
-        "question": "It helps to remove soil or mud that",
+        "question": " It helps to remove soil or mud that cling to the concave disc during harrowing",
         "options": [
             "Disc bearing",
             "Frame",
@@ -1133,7 +1113,7 @@
         "answer": "Scraper"
     },
     {
-        "question": "The two stages of land preparation for",
+        "question": "The two stages of land preparation for farming are",
         "options": [
             "primary tillage, secondary tellage",
             "Secondary tillage, primary-rotary tillage",
@@ -1144,18 +1124,17 @@
         "answer": "Primary tillage, secondary tillage"
     },
     {
-        "question": "Tractor coupled implements are",
         "options": [
             "Disk plough,diskcoupler,diskscraper",
             "Disk beam, disk furrow,disk scraper",
-            "Disk plough, mouldboard plough,",
+            "Disk plough, mouldboard plough",
             "Disk ploughshare,hitch-pointer,disk",
             "none of the above"
         ],
         "answer": "Disk plough, mouldboard plough,"
     },
     {
-        "question": "The function of beam or frame in disk",
+        "question": "The function of beam or frame in disk plough is",
         "options": [
             "To rotate and make vertical cut",
             "To hold concave disc in position",
@@ -1166,9 +1145,8 @@
         "answer": "To hold concave disc in position"
     },
     {
-        "question": "The seed sheller is operated",
         "options": [
-            "mechanically, electrically,",
+            "mechanically, electrically",
             "manually, electrically",
             "mechanically, manually electrically",
             "mechanically only",
@@ -1177,7 +1155,6 @@
         "answer": "mechanically, manually electrically"
     },
     {
-        "question": "Seed Sheller operation is to",
         "options": [
             "To separate the seeds from husk",
             "To remove and shell the seeds from",
@@ -1188,9 +1165,9 @@
         "answer": "It separate seeds from cob"
     },
     {
-        "question": "Parts of seed planter are",
+        "question": "Parts of seed planter are <c+>furrow opener, furrow covering device,",
         "options": [
-            "furrow opener, furrow covering device,",
+            "furrow opener, furrow covering device",
             "seed tube, nozzle, cover handle",
             "Wheeler rope screw pump furrow",
             "furrow covering device,hopper,wheeler",
@@ -1199,7 +1176,6 @@
         "answer": "furrow opener, furrow covering device,"
     },
     {
-        "question": "Tractor is use for",
         "options": [
             "To carry both shell and harvested fruits",
             "To transport farm workers",
@@ -1210,10 +1186,10 @@
         "answer": "To draw or pull farm implements."
     },
     {
-        "question": "Tractor is a powerful and expensive",
+        "question": "Tractor is a powerful and expensive multipurpose farm machine used for lifting",
         "options": [
             "Ploughs and farm animals",
-            "Harrows, Planters, Harvesters, Ridgers,",
+            "Harrows, Planters, Harvesters, Ridgers",
             "Planters and Birds cages",
             "All of the above",
             "None of the above"
@@ -1221,21 +1197,21 @@
         "answer": "Harrows, Planters, Harvesters, Ridgers,"
     },
     {
-        "question": "Common makes and model of Tractors",
+        "question": "Common makes and model of Tractors are:",
         "options": [
             "David Brown, Massey Ferguson, Ford",
             "John Brown, Massey Ford, Ferguson",
             "Rubber Brown, John Deere, Ford",
-            "John Rubber Brown, Massey Ford,",
+            "John Rubber Brown, Massey Ford",
             "John Deere, Ford Massey and John"
         ],
         "answer": "David Brown, Massey Ferguson, Ford"
     },
     {
-        "question": "Example of Farm Machines are:",
+        "question": " Example of Farm Machines are:",
         "options": [
-            "Tractor, Bulldozer, Tree Puller, Sheller,",
-            "Boom Sprayer, Tree Sheller, Harvester,",
+            "Tractor, Bulldozer, Tree Puller, Sheller",
+            "Boom Sprayer, Tree Sheller, Harvester",
             "None of the above",
             "Boom Sprayer, Tree Sheller type A and",
             "Boom Sprayer, Tree Sheller,Harvester,"
@@ -1243,7 +1219,7 @@
         "answer": "Tractor, Bulldozer, Tree Puller, Sheller,"
     },
     {
-        "question": "Example of Farm implements are:",
+        "question": " Example of Farm implements are:",
         "options": [
             "Tractor exhaust pipe, Tractor power",
             "Tractor Hydraulic control system",
@@ -1254,7 +1230,7 @@
         "answer": "None of the above"
     },
     {
-        "question": "Maintenance practices that can be",
+        "question": "Maintenance practices that can be carried out on the tractor include the",
         "options": [
             "Keep the tractor clean by removing all",
             "Check water level of the radiator daily",
@@ -1265,18 +1241,18 @@
         "answer": "All of the above"
     },
     {
-        "question": "Dryer is a farm Machine used to reduce",
+        "question": " Dryer is a farm Machine used to reduce moisture content of grains seeds like",
         "options": [
             "Maize, Soybean, Groundnut, Cowpea",
             "Tomato, Orange and Vegetable",
             "None of the above",
-            "Vegetable, Maize, Soybean,",
+            "Vegetable, Maize, Soybean",
             "Soybean, Groundnut and Wallnut"
         ],
         "answer": "Maize, Soybean, Groundnut, Cowpea"
     },
     {
-        "question": "There are two main types of ploughs",
+        "question": " There are two main types of ploughs these are:",
         "options": [
             "Disc plough and Mould board plough",
             "Mould Board Plough and Disc Ridger",
@@ -1287,15 +1263,15 @@
         "answer": "Disc plough and Mould board plough"
     },
     {
-        "question": "Parts of Disc plough are:",
+        "question": " Parts of Disc plough are:",
         "options": [
-            ") Standard, Beam, Disc, Furrow wheel,",
+            "Standard, Beam, Disc, Furrow wheel",
             "Frame, Beam, Stand, Hydraulic, Jack",
             "None of the above",
             "Standard, Beam, Hydraulic, Jack",
             "Standard, Disc, Furrow gear, Coupling"
         ],
-        "answer": ") Standard, Beam, Disc, Furrow wheel,"
+        "answer": "Standard, Beam, Disc, Furrow wheel,"
     },
     {
         "question": ". Parts of Knapsack sprayer are:",
@@ -1309,18 +1285,18 @@
         "answer": "Flexible hose/ pipe cover lid pump"
     },
     {
-        "question": "Sheller is a processing machine used to",
+        "question": " Sheller is a processing machine used to separate dry grains at 10% moisture",
         "options": [
             "Maize,Cowpea,Soybean",
             "Cowpea ,Rice husk,Sowpea stand",
-            "Cowpea,Soybean , ,Rice husk,",
+            "Cowpea,Soybean,Rice husk",
             "Rice husk,Sowpea stand,Cowpea",
             "None of the above"
         ],
         "answer": "Maize,Cowpea,Soybean"
     },
     {
-        "question": "......is a simple farm hand tool used for",
+        "question": "......is a simple farm hand tool used for transplanting seedlings,fertilizer or manure",
         "options": [
             "Hand Trowel",
             "Cutlass",
@@ -1331,18 +1307,18 @@
         "answer": "Hand Trowel"
     },
     {
-        "question": "Primary tillage implements are",
+        "question": " Primary tillage implements are",
         "options": [
-            "Mould Board plough, Disc plough,",
+            "Mould Board plough, Disc plough",
             "Rotary plough, Sub-surface plough, Disc",
-            "Rotary plough, Row crop cultivator,",
+            "Rotary plough, Row crop cultivator",
             "None of the above",
             "Mould Board plough, Disc plough and"
         ],
         "answer": "Mould Board plough, Disc plough,"
     },
     {
-        "question": "----- helps to remove soil or mud that",
+        "question": " ----- helps to remove soil or mud that cling to the concave disc during harrowing",
         "options": [
             "Disc bearing",
             "Frame",
@@ -1353,7 +1329,7 @@
         "answer": "Scraper"
     },
     {
-        "question": "The two stages of land preparation for",
+        "question": "The two stages of land preparation for farming are",
         "options": [
             "primary tillage, secondary tellage",
             "Secondary tillage, primary-rotary tillage",
@@ -1364,18 +1340,17 @@
         "answer": "Primary tillage, secondary tillage"
     },
     {
-        "question": "Tractor coupled implements are",
         "options": [
             "Disk plough,diskcoupler,diskscraper",
             "Disk beam, disk furrow,disk scraper",
-            "Disk plough, mouldboard plough,",
+            "Disk plough, mouldboard plough",
             "Disk ploughshare,hitch-pointer,disk",
             "none of the above"
         ],
         "answer": "Disk plough, mouldboard plough,"
     },
     {
-        "question": "The function of beam or frame in disk",
+        "question": "The function of beam or frame in disk plough is",
         "options": [
             "To rotate and make vertical cut",
             "To hold concave disc in position",
@@ -1386,9 +1361,8 @@
         "answer": "To hold concave disc in position"
     },
     {
-        "question": "The seed sheller is operated",
         "options": [
-            "mechanically, electrically,",
+            "mechanically, electrically",
             "manually, electrically",
             "mechanically, manually electrically",
             "mechanically only",
@@ -1397,7 +1371,6 @@
         "answer": "mechanically, manually electrically"
     },
     {
-        "question": "Seed Sheller operation is to",
         "options": [
             "To separate the seeds from husk",
             "To remove and shell the seeds from",
@@ -1408,9 +1381,9 @@
         "answer": "It separate seeds from cob"
     },
     {
-        "question": "Parts of seed planter are",
+        "question": "Parts of seed planter are <c+>furrow opener, furrow covering device,",
         "options": [
-            "furrow opener, furrow covering device,",
+            "furrow opener, furrow covering device",
             "seed tube, nozzle, cover handle",
             "Wheeler rope screw pump furrow",
             "furrow covering device,hopper,wheeler",
@@ -1419,7 +1392,6 @@
         "answer": "furrow opener, furrow covering device,"
     },
     {
-        "question": "Tractor is use for",
         "options": [
             "To carry both shell and harvested fruits",
             "To transport farm workers",
@@ -1430,7 +1402,7 @@
         "answer": "To draw or pull farm implements."
     },
     {
-        "question": "In sexual propagation...... pollen",
+        "question": " In sexual propagation...... pollen grain(s) fertilze(s) an ovule",
         "options": [
             "one",
             "two",
@@ -1441,7 +1413,7 @@
         "answer": "one"
     },
     {
-        "question": "One of the following crops can be",
+        "question": " One of the following crops can be propagated using its rhizome",
         "options": [
             "cocoyam",
             "yam",
@@ -1452,7 +1424,7 @@
         "answer": "ginger"
     },
     {
-        "question": "A growing sweet potato plant can best",
+        "question": "A growing sweet potato plant can best be described as ",
         "options": [
             "a tuberous root",
             "a rhizome",
@@ -1463,7 +1435,6 @@
         "answer": "a runner"
     },
     {
-        "question": "Which of the following options is true",
         "options": [
             "a bulb is made up of solid stem",
             "a corm is made up of mainly fleshy",
@@ -1474,7 +1445,6 @@
         "answer": "a bulb consist mainly of fleshy leaves"
     },
     {
-        "question": "In Protandrous plants...",
         "options": [
             "stigmas are receptive before pollens are",
             "pollens are shed before stigmas are",
@@ -1485,7 +1455,6 @@
         "answer": "pollens are shed before stigmas are"
     },
     {
-        "question": "Plantain is best propagated using",
         "options": [
             "peepers and sword suckers",
             "water and maiden suckers",
@@ -1496,7 +1465,7 @@
         "answer": "sword and maiden suckers"
     },
     {
-        "question": "One of the following is incorrect about",
+        "question": "One of the following is incorrect about stem cuttings",
         "options": [
             "it is an asexual means of crop",
             "it is the most common type ofcutting",
@@ -1507,7 +1476,7 @@
         "answer": "it is taken from woody stems only"
     },
     {
-        "question": "After successful pollination and",
+        "question": "After successful pollination and fertilization in sexual propagation",
         "options": [
             "the fruit develop from the ovule",
             "the fruit develop from the ovulation",
@@ -1518,7 +1487,6 @@
         "answer": "the fruit develop from the ovary"
     },
     {
-        "question": "Cross pollination is favoured in",
         "options": [
             "Protandrous only",
             "Protogynous plants only",
@@ -1529,7 +1497,7 @@
         "answer": "protogynous and protandrous plants"
     },
     {
-        "question": "In grafting,",
+        "question": "In grafting",
         "options": [
             "The scion consist of one bud",
             "The stock consist of one bud",
@@ -1540,7 +1508,7 @@
         "answer": "The scion has many buds"
     },
     {
-        "question": "In grafting and budding,the part of the",
+        "question": "In grafting and budding,the part of the union that supplies the root is known as",
         "options": [
             "root stork",
             "Under stork",
@@ -1551,7 +1519,7 @@
         "answer": "under stock"
     },
     {
-        "question": "The fleshy food storing part of onion is",
+        "question": "The fleshy food storing part of onion is the",
         "options": [
             "leaves",
             "root",
@@ -1562,7 +1530,7 @@
         "answer": "leaves"
     },
     {
-        "question": "Which of the following options is most",
+        "question": "Which of the following options is most appropriate about cutting and layering:",
         "options": [
             "Cutting can be used to stimulate rooting",
             "layering can be used to stimulate",
@@ -1573,7 +1541,6 @@
         "answer": "layering can be used to stimulate"
     },
     {
-        "question": "Pick the odd option from the following:",
         "options": [
             "ginger",
             "sugarcane",
@@ -1584,7 +1551,7 @@
         "answer": "potatoes"
     },
     {
-        "question": "An example of a runneris",
+    "question": "An example of a runneris ",
         "options": [
             "potatoes roots",
             "sweet potatoes tubers",
@@ -1595,7 +1562,7 @@
         "answer": "sweet potatoes stem"
     },
     {
-        "question": "Advantage of sexual propagation",
+        "question": "Advantage of sexual propagation include which of the following:",
         "options": [
             "early maturing plants",
             "true to type plants are produced",
@@ -1605,7 +1572,7 @@
         "answer": null
     },
     {
-        "question": "The storage root/stem of which of the",
+        "question": "The storage root/stem of which of the following cannot be used as propagating",
         "options": [
             "Yam",
             "Cassava",
@@ -1616,7 +1583,7 @@
         "answer": "Cassava"
     },
     {
-        "question": "Types of layering include which of the",
+        "question": "Types of layering include which of the following options:",
         "options": [
             "air and soil",
             "soil and simple",
@@ -1627,7 +1594,7 @@
         "answer": "air and simple"
     },
     {
-        "question": "Well drained soil should be used to",
+        "question": "Well drained soil should be used to grow root cuttings for .....",
         "options": [
             "Proper moisture supply",
             "proper temperature control",
@@ -1638,7 +1605,7 @@
         "answer": "adequate aeration"
     },
     {
-        "question": "Which of the following features is",
+        "question": "Which of the following features is present in a typical rhizome:",
         "options": [
             "Internode",
             "Intranode",
@@ -1649,7 +1616,7 @@
         "answer": "Internode"
     },
     {
-        "question": "Choose the odd option from the",
+        "question": "Choose the odd option from the following",
         "options": [
             "Layering",
             "Budding",
@@ -1660,7 +1627,7 @@
         "answer": "Seeding"
     },
     {
-        "question": "Propagation of plantain is best carried",
+        "question": "Propagation of plantain is best carried out using .....suckers",
         "options": [
             "Water and sword",
             "water and maiden",
@@ -1671,7 +1638,7 @@
         "answer": "Maiden and sword"
     },
     {
-        "question": "In terms of size, choose the bigger",
+        "question": " In terms of size, choose the bigger types of suckers",
         "options": [
             "Maiden and water",
             "Peeper and water",
@@ -1682,7 +1649,7 @@
         "answer": "Sword and maiden"
     },
     {
-        "question": "The leaves are well opened yet its unfit",
+        "question": " The leaves are well opened yet its unfit for propagation; this describes....sucker(s) ",
         "options": [
             "Sword",
             "Maiden",
@@ -1693,7 +1660,7 @@
         "answer": "Water"
     },
     {
-        "question": "The commonest type of cutting is/are",
+        "question": " The commonest type of cutting is/are<C+>Stem",
         "options": [
             "Stem",
             "Root and stem",
@@ -1704,7 +1671,6 @@
         "answer": "Stem"
     },
     {
-        "question": "Truncheon is a type of",
         "options": [
             "Grafting",
             "Budding",
@@ -1715,7 +1681,7 @@
         "answer": "cutting"
     },
     {
-        "question": "Rooting can be induced before cutting",
+        "question": " Rooting can be induced before cutting off some branches from the main stem in",
         "options": [
             "Marcotting",
             "Malcotting",
@@ -1726,7 +1692,6 @@
         "answer": "Marcotting"
     },
     {
-        "question": "One of the following options is odd",
         "options": [
             "Tubers",
             "Tuberous roots",
@@ -1737,7 +1702,7 @@
         "answer": "Runners"
     },
     {
-        "question": "The scion in budding has .... bud(s),",
+        "question": " The scion in budding has .... bud(s), while ..... bud(s) is/are present in grafting",
         "options": [
             "two,three",
             "three, four",
@@ -1748,7 +1713,7 @@
         "answer": "one, many"
     },
     {
-        "question": "Transportation of propagating",
+        "question": " Transportation of propagating materials may pose a greater challenge in",
         "options": [
             "Sexual, asexual",
             "Vegetative, sexual",
@@ -1759,7 +1724,6 @@
         "answer": "Vegetative, sexual"
     },
     {
-        "question": "Sweet potato and melon are both",
         "options": [
             "Runners",
             "Cover crops",
@@ -1770,7 +1734,7 @@
         "answer": "Cover crops"
     },
     {
-        "question": "Banana sucker can be differentiated",
+        "question": "Banana sucker can be differentiated from plantain sucker by ",
         "options": [
             "Banana fruits are smaller than plantain",
             "Banana fruits are more in number than",
@@ -1781,7 +1745,7 @@
         "answer": "Banana sucker does not have patches"
     },
     {
-        "question": "The difference between stem cutting",
+        "question": "The difference between stem cutting and layering is that",
         "options": [
             "Cutting works for smaller stems while",
             "Layering works for bigger stems while",
@@ -1803,7 +1767,7 @@
         "answer": "All of the above"
     },
     {
-        "question": "Choose the best option from the",
+        "question": "Choose the best option from the following:",
         "options": [
             "Monocropping, sole cropping and",
             "Monocropping and monoculture are the",
@@ -1814,7 +1778,6 @@
         "answer": "Monoculture of permanent crops is"
     },
     {
-        "question": "Advantages of intercropping include:",
         "options": [
             "Competition amongst component crops",
             "Competition for light",
@@ -1825,7 +1788,6 @@
         "answer": "Better competition against weed"
     },
     {
-        "question": "Multiple cropping in time only describes",
         "options": [
             "Intercropping",
             "Sequential cropping",
@@ -1836,7 +1798,7 @@
         "answer": "Sequential cropping"
     },
     {
-        "question": "Choose the correct option from the",
+        "question": "Choose the correct option from the following:",
         "options": [
             "Intercropping is more popular with",
             "Sole cropping is practised more in the",
@@ -1858,7 +1820,6 @@
         "answer": "There is any degree of interactaction"
     },
     {
-        "question": "Truncheons are types of",
         "options": [
             "Suckers",
             "Root cuttings",
@@ -1869,7 +1830,6 @@
         "answer": "Stem cuttings"
     },
     {
-        "question": "Sweet potato and melon are both",
         "options": [
             "Runners",
             "Cover crops",
@@ -1880,7 +1840,7 @@
         "answer": "Cover crops"
     },
     {
-        "question": "Paleolithic or stone age include the",
+        "question": " Paleolithic or stone age include the following except ",
         "options": [
             "age is one million",
             "Farming exist",
@@ -1891,7 +1851,7 @@
         "answer": "Farming exist"
     },
     {
-        "question": "Mesolithic or middle stone age include",
+        "question": " Mesolithic or middle stone age include the following except ",
         "options": [
             "Age is between 12,000 and 6000 BC",
             "Farming is primitive",
@@ -1902,7 +1862,7 @@
         "answer": "Farming does not exist"
     },
     {
-        "question": "Neolithic or newstone age include the",
+        "question": " Neolithic or newstone age include the following except ",
         "options": [
             "Age is between 12,000 and 6000 BC",
             "Farming is primitive",
@@ -1913,7 +1873,7 @@
         "answer": "Farming trial and error"
     },
     {
-        "question": "Tools mostly used by the farmers to",
+        "question": " Tools mostly used by the farmers to produce food for sources of",
         "options": [
             "hard stone or rough implement",
             "spear, bow and fishing net",
@@ -1924,7 +1884,7 @@
         "answer": "hard stone or rough implement"
     },
     {
-        "question": "Tools mostly used by the farmers to",
+        "question": " Tools mostly used by the farmers to produce food for sources of",
         "options": [
             "hard stone or rough implement",
             "spear, bow and fishing net",
@@ -1935,7 +1895,7 @@
         "answer": "plolished stone tool"
     },
     {
-        "question": "Tools mostly used by the farmers to",
+        "question": " Tools mostly used by the farmers to produce food for sources of",
         "options": [
             "hard stone or rough implement",
             "spear, bow and fishing net",
@@ -1946,7 +1906,7 @@
         "answer": "plough"
     },
     {
-        "question": "Neolithic or newstone age include the",
+        "question": " Neolithic or newstone age include the following except ",
         "options": [
             "age is one million",
             "Farming exist",
@@ -1957,7 +1917,7 @@
         "answer": "Farming exist"
     },
     {
-        "question": "In the history of Agricultutre,",
+        "question": " In the history of Agricultutre, paleolithic age lasted for ",
         "options": [
             "between 12000-6000 BC",
             "about 6000 BC",
@@ -1968,7 +1928,7 @@
         "answer": "about a million"
     },
     {
-        "question": "In the history of Agricultutre,",
+        "question": " In the history of Agricultutre, mesolithic age lasted for",
         "options": [
             "between 12000-6000 BC",
             "about 6000 BC",
@@ -1979,7 +1939,7 @@
         "answer": "between 12000-6000 BC"
     },
     {
-        "question": "In the history of Agricultutre, Neolithic",
+        "question": " In the history of Agricultutre, Neolithic age lasted for ",
         "options": [
             "between 12000-6000 BC",
             "about 6000 BC",
@@ -1990,7 +1950,7 @@
         "answer": "about 6000 BC"
     },
     {
-        "question": "In the history of Agricultutre, Bronze",
+        "question": " In the history of Agricultutre, Bronze age lasted for ",
         "options": [
             "between 12000-6000 BC",
             "about 6000 BC",
@@ -2001,7 +1961,6 @@
         "answer": "3000 BC"
     },
     {
-        "question": "Modern agriculture started in",
         "options": [
             "19th century",
             "1701",
@@ -2012,7 +1971,7 @@
         "answer": "1701"
     },
     {
-        "question": "Grain drill was invented by english",
+        "question": " Grain drill was invented by english farmer called ",
         "options": [
             "Van Helmont",
             "John Woodward",
@@ -2023,7 +1982,7 @@
         "answer": "Jethro Tull"
     },
     {
-        "question": "Law of minimum was describe by a",
+        "question": " Law of minimum was describe by a Scientist called ",
         "options": [
             "Van Helmont",
             "John Woodward",
@@ -2034,7 +1993,7 @@
         "answer": "Liebig"
     },
     {
-        "question": "In 1577-1644, water was considered as",
+        "question": " In 1577-1644, water was considered as the sole nutrient by",
         "options": [
             "Van Helmont",
             "John Woodward",
@@ -2045,7 +2004,7 @@
         "answer": "Van Helmont"
     },
     {
-        "question": "In 1775, Who was the Scientist that",
+        "question": " In 1775, Who was the Scientist that concluded that plant keep the",
         "options": [
             "Van Helmont",
             "John Woodward",
@@ -2056,7 +2015,7 @@
         "answer": "Joseph Priestly."
     },
     {
-        "question": "Theodure d'Saussure in 1782 reported",
+        "question": " Theodure d'Saussure in 1782 reported that plant",
         "options": [
             "absorption oxygen and evolution of",
             "absorption of Carbondioxide and",
@@ -2067,7 +2026,7 @@
         "answer": "absorption oxygen and evolution of"
     },
     {
-        "question": "Who establish the necessity of CO2 to",
+        "question": " Who establish the necessity of CO2 to plant as well as the",
         "options": [
             "Van Helmont",
             "John Woodward",
@@ -2078,7 +2037,7 @@
         "answer": "Theodure d\u2019Saussure"
     },
     {
-        "question": "Who establish the law state that \"if",
+        "question": " Who establish the law state that ",
         "options": [
             "Van Helmont",
             "John Woodward",
@@ -2089,7 +2048,7 @@
         "answer": "Liebig"
     },
     {
-        "question": "The following crops originated from",
+        "question": " The following crops originated from West Central Africa except ",
         "options": [
             "cowpea",
             "kola",
@@ -2100,7 +2059,7 @@
         "answer": "cassava"
     },
     {
-        "question": "Yam originated from which of the",
+        "question": " Yam originated from which of the following centers",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2111,7 +2070,7 @@
         "answer": "West Central Africa"
     },
     {
-        "question": "Casava originated from which of the",
+        "question": " Casava originated from which of the following centers ",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2122,7 +2081,7 @@
         "answer": "Brazil Paraguay"
     },
     {
-        "question": "Cashew originated from which of the",
+        "question": " Cashew originated from which of the following centers ",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2133,7 +2092,7 @@
         "answer": "Brazil Paraguay"
     },
     {
-        "question": "Cocoa originated from which of the",
+        "question": " Cocoa originated from which of the following centers ",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2144,7 +2103,7 @@
         "answer": "Brazil Paraguay"
     },
     {
-        "question": "Maize originated from which of the",
+        "question": " Maize originated from which of the following centers ",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2155,7 +2114,7 @@
         "answer": "Central America, Mexico"
     },
     {
-        "question": "Coffee (arabica) originated from which",
+        "question": " Coffee (arabica) originated from which of the following centers ",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2166,7 +2125,7 @@
         "answer": "Ethiopian"
     },
     {
-        "question": "Irish Potato orginated from which of",
+        "question": " Irish Potato orginated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Africa",
@@ -2177,7 +2136,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Avocado pearorginated from which of",
+        "question": " Avocado pearorginated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Central Africa",
@@ -2188,7 +2147,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Kola orginated from which of the",
+        "question": " Kola orginated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Central Africa",
@@ -2199,7 +2158,7 @@
         "answer": "West Central Africa"
     },
     {
-        "question": "paw-paw orginated from which of the",
+        "question": " paw-paw orginated from which of the following center,",
         "options": [
             "Ecuador and Peru",
             "West Central Africa",
@@ -2210,7 +2169,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Cotton originated from which of the",
+        "question": "Cotton originated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Central Africa",
@@ -2221,7 +2180,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Sweet potato originated from which of",
+        "question": "Sweet potato originated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Central Africa",
@@ -2232,7 +2191,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Tobacco originated from which of the",
+        "question": "Tobacco originated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Cental Africa",
@@ -2243,7 +2202,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Tomato originated from which of the",
+        "question": " Tomato originated from which of the following center",
         "options": [
             "Ecuador and Peru",
             "West Cental Africa",
@@ -2254,7 +2213,7 @@
         "answer": "Ecuador and Peru"
     },
     {
-        "question": "Cowpea originated from which of the",
+        "question": " Cowpea originated from which of the following centers",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2265,7 +2224,7 @@
         "answer": "West Central Africa"
     },
     {
-        "question": "Rice originated from which of the",
+        "question": " Rice originated from which of the following center ",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2276,7 +2235,7 @@
         "answer": "Indo-Burmese"
     },
     {
-        "question": "Red rice originated from which of the",
+        "question": " Red rice originated from which of the following center",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2287,7 +2246,7 @@
         "answer": "West Central Africa"
     },
     {
-        "question": "Oil palm originated from which of the",
+        "question": " Oil palm originated from which of the following center",
         "options": [
             "West Central Africa",
             "Ethiopian",
@@ -2298,7 +2257,7 @@
         "answer": "West Central Africa"
     },
     {
-        "question": "center of diversity is the same as",
+        "question": " center of diversity is the same as <C+> center of origin ",
         "options": [
             "center of origin",
             "primary center",
@@ -2309,7 +2268,7 @@
         "answer": "all of the above"
     },
     {
-        "question": "center of origin of Yam is",
+        "question": " center of origin of Yam is ",
         "options": [
             "Ecuador",
             "Central America",
@@ -2320,7 +2279,7 @@
         "answer": "West central Africa"
     },
     {
-        "question": "Knowledge of origin of crop enable",
+        "question": " Knowledge of origin of crop enable breeders to",
         "options": [
             "identify diverse form of species",
             "cross breed",
@@ -2331,7 +2290,7 @@
         "answer": "identify diverse form of species"
     },
     {
-        "question": "Crop protection specialists use center",
+        "question": " Crop protection specialists use center of origin to ",
         "options": [
             "develop pesticides",
             "develop biological control",
@@ -2342,7 +2301,7 @@
         "answer": "develop biological control"
     },
     {
-        "question": "The following are considered as",
+        "question": " The following are considered as vegetational zone except ",
         "options": [
             "Sahel savannah",
             "guinea savannah",
@@ -2353,7 +2312,7 @@
         "answer": "ever green savannah"
     },
     {
-        "question": "One the commonly grown crop in Sahel",
+        "question": " One the commonly grown crop in Sahel savannah zone is ",
         "options": [
             "coffee",
             "millet",
@@ -2364,7 +2323,7 @@
         "answer": "millet"
     },
     {
-        "question": "One of the following crops is grown in",
+        "question": " One of the following crops is grown in mangrove forest",
         "options": [
             "raffia palm",
             "cassava",
@@ -2375,7 +2334,7 @@
         "answer": "raffia palm"
     },
     {
-        "question": "The following crops are grown in",
+        "question": " The following crops are grown in guinea savannah except ",
         "options": [
             "maize",
             "ground nut",
@@ -2386,7 +2345,7 @@
         "answer": "rubber"
     },
     {
-        "question": "The major components of climate",
+        "question": " The major components of climate which interact to produce the local",
         "options": [
             "temperature",
             "rainfall",
@@ -2397,7 +2356,7 @@
         "answer": "evaporation"
     },
     {
-        "question": "Which of the following is not a major",
+        "question": " Which of the following is not a major components of climate ",
         "options": [
             "Altitude",
             "rainfall",
@@ -2408,7 +2367,7 @@
         "answer": "soil"
     },
     {
-        "question": "The north-easterly harmattan or dry",
+        "question": " The north-easterly harmattan or dry continental tropical air originate over",
         "options": [
             "Sahara desert",
             "guinea savannah",
@@ -2419,7 +2378,7 @@
         "answer": "Sahara desert"
     },
     {
-        "question": "Inter-Tropical Convergence zone is",
+        "question": " Inter-Tropical Convergence zone is characterized by ",
         "options": [
             "low dense clouds",
             "heavy rains",
@@ -2430,7 +2389,7 @@
         "answer": "all of the above"
     },
     {
-        "question": "................ is light that is utilized by the",
+        "question": "................ is light that is utilized by the plant in photosynthesis",
         "options": [
             "Sun shine active radiation",
             "Photosynthetic active radiation",
@@ -2441,7 +2400,7 @@
         "answer": "Photosynthetic active radiation"
     },
     {
-        "question": "............... occurs in the 400 - 700 nm",
+        "question": "............... occurs in the 400 - 700 nm wavelength range ",
         "options": [
             "Sun shine active radiation",
             "Photosynthetic active radiation",
@@ -2452,7 +2411,7 @@
         "answer": "Photosynthetic active radiation"
     },
     {
-        "question": "How long daylight is available for plants",
+        "question": "How long daylight is available for plants to photosynthesize is refer to",
         "options": [
             "Duration",
             "photo-neutral",
@@ -2463,7 +2422,7 @@
         "answer": "Duration"
     },
     {
-        "question": "Three aspects of light affect plant",
+        "question": "Three aspects of light affect plant growth are ",
         "options": [
             "intensity",
             "duration",
@@ -2474,7 +2433,7 @@
         "answer": "all of the above"
     },
     {
-        "question": "Light intensity refers to the",
+        "question": "Light intensity refers to the <C+> brightness of the light ",
         "options": [
             "brightness of the light",
             "duration",
@@ -2485,7 +2444,7 @@
         "answer": "brightness of the light"
     },
     {
-        "question": "Light quality refers to the relative",
+        "question": "Light quality refers to the relative abundance of particular wavelengths or",
         "options": [
             "infra-red",
             "visible",
@@ -2496,7 +2455,7 @@
         "answer": "all of the above"
     },
     {
-        "question": "Convectional rainfall results from",
+        "question": "Convectional rainfall results from <C+>evaporation and precipitation",
         "options": [
             "evaporation and precipitation",
             "precipitation and relative humidity",
@@ -2507,7 +2466,7 @@
         "answer": "evaporation and precipitation"
     },
     {
-        "question": "Convectional rainfall is a characteristics",
+        "question": "Convectional rainfall is a characteristics of",
         "options": [
             "coastal areas",
             "inland valleys",
@@ -2518,7 +2477,7 @@
         "answer": "coastal areas"
     },
     {
-        "question": "Which of the following climatic",
+        "question": " Which of the following climatic parameters determine the commencement",
         "options": [
             "rainfall",
             "termperature",
@@ -2529,7 +2488,7 @@
         "answer": "termperature"
     },
     {
-        "question": "Which of the following climatic",
+        "question": " Which of the following climatic parameters determine the commencement",
         "options": [
             "rainfall",
             "termperature",
@@ -2540,7 +2499,7 @@
         "answer": "rainfall"
     },
     {
-        "question": "The departure of a crop from the",
+        "question": "The departure of a crop from the normal state of health with marked visible",
         "options": [
             "Viral disease",
             "Bacterial infection",
@@ -2551,7 +2510,7 @@
         "answer": "Diseased condition"
     },
     {
-        "question": "Viral diseases in crops can be prevented",
+        "question": "Viral diseases in crops can be prevented by the following except:",
         "options": [
             "Uprooting and burning of infected plant",
             "Use of copper fungicides",
@@ -2562,7 +2521,7 @@
         "answer": "Use of copper fungicides"
     },
     {
-        "question": "The use of resistant varieties of crops is",
+        "question": "The use of resistant varieties of crops is a:",
         "options": [
             "Biological method of disease control",
             "Preventive measure against disease",
@@ -2573,7 +2532,7 @@
         "answer": "Preventive measure against disease"
     },
     {
-        "question": "Cultural control of crop diseases",
+        "question": "Cultural control of crop diseases involves the:",
         "options": [
             "Use of crop rotation",
             "Use of healthy seeds to plant",
@@ -2584,7 +2543,7 @@
         "answer": "All of the above"
     },
     {
-        "question": "Chemical control of crop diseases",
+        "question": "Chemical control of crop diseases involves the use of :",
         "options": [
             "Nematicides",
             "Insecticides",
@@ -2595,7 +2554,6 @@
         "answer": "All of the above"
     },
     {
-        "question": "Maize smut disease is caused by a:",
         "options": [
             "Longitudinal red spot",
             "Bacterium",
@@ -2606,7 +2564,7 @@
         "answer": "Fungus"
     },
     {
-        "question": "Puccinia polysora is the name of the",
+        "question": "Puccinia polysora is the name of the pathogen causing:",
         "options": [
             "Maize smut disease",
             "Coffee leaf rust disease",
@@ -2617,7 +2575,6 @@
         "answer": "Maize rust disease"
     },
     {
-        "question": "Cassava mosaic disease is caused by a:",
         "options": [
             "Fungus",
             "Bacterium",
@@ -2628,7 +2585,7 @@
         "answer": "Virus"
     },
     {
-        "question": "The pathogen causing cassava mosaic",
+        "question": "The pathogen causing cassava mosaic disease is transmitted through:",
         "options": [
             "Piercing and biting insect",
             "Biting and sucking insect",
@@ -2639,7 +2596,7 @@
         "answer": "Piercing and sucking insect"
     },
     {
-        "question": "The vector that transmits the",
+        "question": "The vector that transmits the pathogen causing cassava mosaic disease is",
         "options": [
             "Ustilago maydis",
             "Xanthomonas manihotis",
@@ -2650,7 +2607,7 @@
         "answer": "Bemisia nigerensis"
     },
     {
-        "question": "Leaf blight disease of cassava is caused",
+        "question": "Leaf blight disease of cassava is caused by a:",
         "options": [
             "Virus",
             "Bacterium",
@@ -2661,7 +2618,7 @@
         "answer": "Bacterium"
     },
     {
-        "question": "The symptoms of cassava leaf blight",
+        "question": "The symptoms of cassava leaf blight disease include the following except:",
         "options": [
             "Blighting of leaves",
             "Wilting of leaves",
@@ -2672,7 +2629,7 @@
         "answer": "Galls appearing on leaves and roots"
     },
     {
-        "question": "Rice blast disease is caused by a fungus",
+        "question": "Rice blast disease is caused by a fungus called:",
         "options": [
             "Oryza sativa",
             "Helminthosporium oryzae",
@@ -2683,7 +2640,7 @@
         "answer": "Piricularia oryzae"
     },
     {
-        "question": "One peculiar way of preventing rice",
+        "question": "One peculiar way of preventing rice blast disease is to:",
         "options": [
             "Water regularly",
             "Weed regularly",
@@ -2694,7 +2651,7 @@
         "answer": "Avoid heavy use of nitrogen fertilizers"
     },
     {
-        "question": "Cocoa black pod disease manifests the",
+        "question": "Cocoa black pod disease manifests the following symptoms except:",
         "options": [
             "Brown spot appearing on leaves",
             "Brown spot appearing on pod",
@@ -2705,7 +2662,7 @@
         "answer": "Brown spot appearing on leaves"
     },
     {
-        "question": "Coffee leaf rust disease is caused by a",
+        "question": "Coffee leaf rust disease is caused by a fungus which is transmitted through:",
         "options": [
             "Wind-borne spores",
             "Rain splash",
@@ -2716,7 +2673,7 @@
         "answer": "All of the above"
     },
     {
-        "question": "Coffee leaf rust disease can be",
+        "question": "Coffee leaf rust disease can be controlled by using:",
         "options": [
             "Copper fungicides",
             "Nematicides",
@@ -2727,7 +2684,7 @@
         "answer": "Copper fungicides"
     },
     {
-        "question": "The causative organism of root knot",
+        "question": "The causative organism of root knot disease of tomato/okra is a:",
         "options": [
             "Fungus",
             "Virus",
@@ -2738,7 +2695,7 @@
         "answer": "Nematode"
     },
     {
-        "question": "The causative organism of root knot",
+        "question": "The causative organism of root knot disease of tomato/okra can be controlled",
         "options": [
             "Uprooting burning of infected plant",
             "Applying Bordeaux mixture",
@@ -2749,7 +2706,7 @@
         "answer": "Soil sterilization"
     },
     {
-        "question": "Leaf spot disease of cowpea manifests",
+        "question": "Leaf spot disease of cowpea manifests one of the following symptoms:",
         "options": [
             "Wilting of plants",
             "Blighting of leaves",
@@ -2760,7 +2717,7 @@
         "answer": "Chlorosis"
     },
     {
-        "question": "A plant disease can be defined as",
+        "question": " A plant disease can be defined as ",
         "options": [
             "an orderof strucruture of function in a",
             "an arrangement of plants structure and",
@@ -2771,7 +2728,7 @@
         "answer": "a disorder of structure of function in a"
     },
     {
-        "question": "Plant diseases are caused by the",
+        "question": "Plant diseases are caused by the following biotic factors:",
         "options": [
             "viruses",
             "bacteria",
@@ -2782,7 +2739,7 @@
         "answer": "pathogens"
     },
     {
-        "question": "Plant diseases are caused by the",
+        "question": " Plant diseases are caused by the following abiotic factors:",
         "options": [
             "temperature and moisture",
             "light and nutrients",
@@ -2793,7 +2750,7 @@
         "answer": "all of the above"
     },
     {
-        "question": "For plant diseases to occur there must",
+        "question": " For plant diseases to occur there must be interaction between the",
         "options": [
             "host plant, viruses and favourable",
             "host plant, fungi and favourable",
@@ -2804,7 +2761,7 @@
         "answer": "host plant, pathogens and favourable"
     },
     {
-        "question": "Resistant varieties of plants depict",
+        "question": " Resistant varieties of plants depict ",
         "options": [
             "plants that are susceptible to diseases",
             "plants that can survive a diseased",
@@ -2815,7 +2772,6 @@
         "answer": "plants that can survive a diseased"
     },
     {
-        "question": "'Symptom' also means",
         "options": [
             "blighting of leaves",
             "falling off of leaves",
@@ -2826,7 +2782,7 @@
         "answer": "visible signs"
     },
     {
-        "question": "All the following depict preventive",
+        "question": " All the following depict preventive method of disease control in plants except",
         "options": [
             "farm sanitation",
             "use of resistant varieties of crops",
@@ -2837,7 +2793,7 @@
         "answer": "Spraying with recommended chemicals"
     },
     {
-        "question": "The pathogen that can be transmitted",
+        "question": " The pathogen that can be transmitted through spores dispersal is a ",
         "options": [
             "virus",
             "bacterium",
@@ -2848,7 +2804,7 @@
         "answer": "fungus"
     },
     {
-        "question": "The first symptom of blackpod disease",
+        "question": " The first symptom of blackpod disease infection in cocoa is",
         "options": [
             "grey spot appearing on the pod",
             "black spot appearing on the pod",
@@ -2859,7 +2815,7 @@
         "answer": "brown spot appearing on the pod"
     },
     {
-        "question": "Nematode diseases are transmitted",
+        "question": " Nematode diseases are transmitted mainly through the",
         "options": [
             "leaves of plant",
             "stems of plant",
@@ -2870,7 +2826,7 @@
         "answer": "soil"
     },
     {
-        "question": "knotting and galling of roots in tomato",
+        "question": " knotting and galling of roots in tomato is a symptom of",
         "options": [
             "nematode infection",
             "fungi infection",
@@ -2881,7 +2837,7 @@
         "answer": "nematode infection"
     },
     {
-        "question": "Mottling of leaves as a symptom of",
+        "question": " Mottling of leaves as a symptom of plant disease is characterized by",
         "options": [
             "leaves covered with spores",
             "leaves covered with spots or coloured",
@@ -2892,7 +2848,7 @@
         "answer": "leaves covered with spots or coloured"
     },
     {
-        "question": "A weed can be divided into three major",
+        "question": " A weed can be divided into three major groups which are:",
         "options": [
             "sedges, broadleaves and aquatic plants",
             "broadleaves, aquatic plants and grasseS",
@@ -2903,7 +2859,7 @@
         "answer": "grasses, sedges and broadleves"
     },
     {
-        "question": "Rottboellia cochinchinensis is a/an",
+        "question": " Rottboellia cochinchinensis is a/an<C+>grass weed ",
         "options": [
             "grass weed",
             "broadleaved weed",
@@ -2914,7 +2870,6 @@
         "answer": "grass weed"
     },
     {
-        "question": "Syndrella nodiflora is a/an",
         "options": [
             "grass weed",
             "broadleaved weed",
@@ -2925,7 +2880,6 @@
         "answer": "broadleaved weed"
     },
     {
-        "question": "Sedge weeds are plants with",
         "options": [
             "leaf sheaths, auricles and hairy stems",
             "leaf sheaths, three sided stems and",
@@ -2936,7 +2890,7 @@
         "answer": "solitary stems, basal leaves and three"
     },
     {
-        "question": "Which of this statements is correct",
+        "question": " Which of this statements is correct",
         "options": [
             "a plant is a weed",
             "a plant is a segde",
@@ -2947,7 +2901,6 @@
         "answer": "a weed is a plant"
     },
     {
-        "question": "Which of the following is not a weed?",
         "options": [
             "Alternanthera sessilis",
             "Sporobolus pyramidalis",
@@ -2958,7 +2911,7 @@
         "answer": "Zea mays"
     },
     {
-        "question": "Which of the following is not a",
+        "question": " Which of the following is not a broadleaved weed?",
         "options": [
             "Chromolaena odorata",
             "Syndrella nodiflora",
@@ -2969,7 +2922,7 @@
         "answer": "Panicum maximum"
     },
     {
-        "question": "Which of the following is not a grass",
+        "question": " Which of the following is not a grass weed?",
         "options": [
             "Rottboellia cochinchinensis",
             "Sporobolus pyramidalis",
@@ -2980,7 +2933,6 @@
         "answer": "Tridax procumbens"
     },
     {
-        "question": "Express 240000 ml/ha in l/ha",
         "options": [
             "24 l/ha",
             "2400 l/ha",
@@ -2991,7 +2943,6 @@
         "answer": "240 l/ha"
     },
     {
-        "question": "One hectare of land is expressed as",
         "options": [
             "100 meter square",
             "1000 meter square",
@@ -3002,7 +2953,7 @@
         "answer": "10000 meter square"
     },
     {
-        "question": ".The discharge rate of a knapsack",
+        "question": ".The discharge rate of a knapsack sprayer with a capacity of 20 litre is 200",
         "options": [
             "15 times",
             "10 times",
@@ -3013,7 +2964,7 @@
         "answer": "10 times"
     },
     {
-        "question": "Knapsack sprayer components include",
+        "question": " Knapsack sprayer components include the following except ",
         "options": [
             "pressure guage",
             "lance",
@@ -3024,7 +2975,6 @@
         "answer": "water"
     },
     {
-        "question": "The long nozzle is used to spray",
         "options": [
             "insecticides",
             "chemicals",
@@ -3035,7 +2985,7 @@
         "answer": "herbicides"
     },
     {
-        "question": "The conical nozzzle can be used to",
+        "question": " The conical nozzzle can be used to spray the following except",
         "options": [
             "Insecticides",
             "fungicides",
@@ -3046,7 +2996,7 @@
         "answer": "herbicides"
     },
     {
-        "question": "One of the reasons for calibrating a",
+        "question": " One of the reasons for calibrating a spraying machine is to ",
         "options": [
             "maintain adequate speed of the",
             "regulate the discharge rate for 10",
@@ -3057,7 +3007,7 @@
         "answer": "allow effective operation and prevent"
     },
     {
-        "question": "A successful production of crop starts",
+        "question": "A successful production of crop starts with the choice of suitable………… ",
         "options": [
             "Crop",
             "Land",
@@ -3068,7 +3018,7 @@
         "answer": "Land"
     },
     {
-        "question": "Land clearing in the forested field",
+        "question": "Land clearing in the forested field involves removal of trees, stumping",
         "options": [
             "Hoe",
             "Digger",
@@ -3079,7 +3029,7 @@
         "answer": "Bulldozer"
     },
     {
-        "question": "In using a heavy machinery for land",
+        "question": "In using a heavy machinery for land clearing, care must be taken to avoid",
         "options": [
             "Land",
             "Trees",
@@ -3090,7 +3040,7 @@
         "answer": "Machines"
     },
     {
-        "question": "The stubbles on the cleared land should",
+        "question": "The stubbles on the cleared land should be packed to facilitate …… and ………. tillage",
         "options": [
             "ridging and clearing",
             "primary and secondary",
@@ -3101,7 +3051,7 @@
         "answer": "primary and secondary"
     },
     {
-        "question": "\u2026\u2026\u2026. and \u2026\u2026\u2026.. operations should be",
+        "question": "………. and ……….. operations should be restricted to the top soil zone",
         "options": [
             "Land clearing and Tillage",
             "Ploughing and Harrowing",
@@ -3112,7 +3062,7 @@
         "answer": "Land clearing and Tillage"
     },
     {
-        "question": "In order to produce \u2026\u2026\u2026.., a grower",
+        "question": "In order to produce ……….., a grower must establish the required optimum plant",
         "options": [
             "crop",
             "Maximum yield",
@@ -3123,7 +3073,7 @@
         "answer": "Maximum yield"
     },
     {
-        "question": "Good stand establishment can be",
+        "question": "Good stand establishment can be obtained by seeding high quality ……… into",
         "options": [
             "plant",
             "seeds",
@@ -3134,7 +3084,7 @@
         "answer": "seeds"
     },
     {
-        "question": "There is need for seed treatment",
+        "question": "There is need for seed treatment because …………… are often carried on or in",
         "options": [
             "Pathogens",
             "disease",
@@ -3145,7 +3095,7 @@
         "answer": "Pathogens"
     },
     {
-        "question": "The same temperature and moisture",
+        "question": "The same temperature and moisture conditions in the soil that favour",
         "options": [
             "Pathology",
             "Soil-borne pathogens",
@@ -3156,7 +3106,7 @@
         "answer": "Soil-borne pathogens"
     },
     {
-        "question": "Many crops are more susceptible to",
+        "question": "Many crops are more susceptible to …………. in the seedling stage than at any",
         "options": [
             "infection",
             "pathogens",
@@ -3167,7 +3117,7 @@
         "answer": "pathogens"
     },
     {
-        "question": "Viability of seed refers to the ability of a",
+        "question": "Viability of seed refers to the ability of a seed to germinate and produce a ---------",
         "options": [
             "Abnormal",
             "Normal",
@@ -3178,7 +3128,7 @@
         "answer": "Normal"
     },
     {
-        "question": "Germination test is most commonly",
+        "question": "Germination test is most commonly used to determine -----------",
         "options": [
             "Seed Germination",
             "Seed Abnormality",
@@ -3189,7 +3139,7 @@
         "answer": "Seed viability"
     },
     {
-        "question": "After \u2026\u2026\u2026\u2026\u2026.., the viability of seed",
+        "question": "After …………….., the viability of seed gradually declines",
         "options": [
             "Germination",
             "Physiological Abnormality",
@@ -3200,7 +3150,7 @@
         "answer": "Physiological maturity"
     },
     {
-        "question": "Germination stages includes",
+        "question": "Germination stages includes …………..and all the biochemical and",
         "options": [
             "Water uptake",
             "Water salinity",
@@ -3211,7 +3161,7 @@
         "answer": "Water imbibitions"
     },
     {
-        "question": "Germination stages include all of the",
+        "question": "Germination stages include all of the following except:",
         "options": [
             "Germination",
             "Underground elongation",
@@ -3222,7 +3172,7 @@
         "answer": "Above ground elongation"
     },
     {
-        "question": "--------------- starts with the onset of",
+        "question": "--------------- starts with the onset of photosynthetic activity by the seedling.",
         "options": [
             "Germination",
             "Independent growth",
@@ -3233,7 +3183,7 @@
         "answer": "Independent growth"
     },
     {
-        "question": "A dormant but viable seed is one, which",
+        "question": "A dormant but viable seed is one, which fails to germinate at a -------------- when",
         "options": [
             "High pressure",
             "Favourable growth",
@@ -3244,7 +3194,7 @@
         "answer": "Favourable temperature"
     },
     {
-        "question": "Dormancy is therefore biologically",
+        "question": "Dormancy is therefore biologically important, providing a mechanism for -------",
         "options": [
             "Dispersal",
             "Growth",
@@ -3255,7 +3205,7 @@
         "answer": "Dispersal"
     },
     {
-        "question": "One of the underlisted mechanism",
+        "question": "One of the underlisted mechanism preserve the seed against temporarily",
         "options": [
             "Germination",
             "Factors",
@@ -3266,7 +3216,7 @@
         "answer": "Dormancy"
     },
     {
-        "question": "The following but one are causes of",
+        "question": "The following but one are causes of seed dormancy ",
         "options": [
             "Rudimentary embryos",
             "Physiologically immature embryo",
@@ -3277,7 +3227,7 @@
         "answer": "None of the above"
     },
     {
-        "question": "The following but one is a method of",
+        "question": "The following but one is a method of breaking seed dormancy",
         "options": [
             "Shaking with sand",
             "Eating",
@@ -3288,7 +3238,7 @@
         "answer": "Shaking with sand"
     },
     {
-        "question": "The following crops are Arable except",
+        "question": "The following crops are Arable except <C+> Kolanut, Mango, Citrus",
         "options": [
             "Kolanut, Mango, Citrus",
             "Cassava,yam and cocoyam",
@@ -3299,7 +3249,7 @@
         "answer": "Kolanut, Mango, Citrus"
     },
     {
-        "question": "Operations like --------- are easy to carry",
+        "question": "Operations like --------- are easy to carry out on a level terrain.",
         "options": [
             "digging and planting",
             "rouging and leveling",
@@ -3310,7 +3260,7 @@
         "answer": "Ploughing and harrowing"
     },
     {
-        "question": "Land preparation involve all but one of",
+        "question": "Land preparation involve all but one of the following",
         "options": [
             "ploughing",
             "harrowing",
@@ -3321,7 +3271,7 @@
         "answer": "Harvesting"
     },
     {
-        "question": "In order to produce maximum yield, a",
+        "question": "In order to produce maximum yield, a grower must establish the required",
         "options": [
             "plant height",
             "Plant population",
@@ -3332,7 +3282,7 @@
         "answer": "Plant population"
     },
     {
-        "question": "Good stand establishment can be",
+        "question": "Good stand establishment can be obtained by seeding ------- into well",
         "options": [
             "goog plant",
             "many seeds",
@@ -3343,7 +3293,7 @@
         "answer": "high quality seed"
     },
     {
-        "question": "Many crops are more susceptible to",
+        "question": "Many crops are more susceptible to infection in the -------- than at any other",
         "options": [
             "developmental stage",
             "infection",
@@ -3354,7 +3304,7 @@
         "answer": "seedling stage"
     },
     {
-        "question": "there is the the need to assess the",
+        "question": "there is the the need to assess the suitability of ------ as pathogen free for a",
         "options": [
             "the seeds",
             "the enviroment",
@@ -3365,7 +3315,7 @@
         "answer": "the land"
     },
     {
-        "question": "The chemical used in seed treatment",
+        "question": "The chemical used in seed treatment can be applied in any of the following ways",
         "options": [
             "Solids",
             "semiliquid",
@@ -3376,7 +3326,7 @@
         "answer": "Solids"
     },
     {
-        "question": "The compounds used to treat seeds are",
+        "question": "The compounds used to treat seeds are generally ------- to both man and livestock ",
         "options": [
             "good",
             "edible",
@@ -3387,7 +3337,7 @@
         "answer": "toxic"
     },
     {
-        "question": "In using seed treatment chemicals, one",
+        "question": "In using seed treatment chemicals, one of the following precautions must be",
         "options": [
             "Treat seeds at high moisture content.",
             "treat physically damaged and unviable",
@@ -3398,7 +3348,7 @@
         "answer": "Do not feed treated seeds to livestock"
     },
     {
-        "question": "In order to minimize waste of seeds, it",
+        "question": "In order to minimize waste of seeds, it is important to maintain the planter in -------",
         "options": [
             "Optimum capability",
             "Maximum capacity",
@@ -3409,10 +3359,10 @@
         "answer": "good working condition"
     },
     {
-        "question": "Physiological maturity is the period",
+        "question": " Physiological maturity is the period when…… ",
         "options": [
             "Maximum seed is produced",
-            "Seed viability is highest,",
+            "Seed viability is highest",
             "Plant growth is at the peak",
             "When dormancy occurs",
             "when germination takes place"
@@ -3420,7 +3370,7 @@
         "answer": "Seed viability is highest,"
     },
     {
-        "question": "In order to produce \u2026\u2026\u2026.., a grower",
+        "question": "In order to produce ……….., a grower must establish the required optimum plant",
         "options": [
             "crop",
             "Maximum yield",
@@ -3431,7 +3381,7 @@
         "answer": "Maximum yield"
     },
     {
-        "question": "The following but one are causes of",
+        "question": "The following but one are causes of seed dormancy ",
         "options": [
             "Rudimentary embryos",
             "Physiologically immature embryo",
@@ -3442,7 +3392,7 @@
         "answer": "None of the above"
     },
     {
-        "question": "The following but one is a method of",
+        "question": "The following but one is a method of breaking seed dormancy",
         "options": [
             "Shaking with sand",
             "Eating",
@@ -3453,7 +3403,7 @@
         "answer": "Shaking with sand"
     },
     {
-        "question": "Growth is a",
+        "question": "Growth is a <C+> Irreversible increase in size ",
         "options": [
             "Irreversible increase in size",
             "reversible increase in size",
@@ -3464,7 +3414,7 @@
         "answer": "Irreversible increase in size"
     },
     {
-        "question": "The seed which possess the ability to",
+        "question": "The seed which possess the ability to germinate in a suitable favourable condition",
         "options": [
             "Quiescent",
             "dry",
@@ -3475,7 +3425,7 @@
         "answer": "viable"
     },
     {
-        "question": "The condition of a viable seed when",
+        "question": "The condition of a viable seed when seeds do not germinate in the presence of a",
         "options": [
             "seed dead",
             "dormancy",
@@ -3486,7 +3436,7 @@
         "answer": "dormancy"
     },
     {
-        "question": "Many crops are more susceptible to",
+        "question": " Many crops are more susceptible to infection in the -------- than at any other",
         "options": [
             "developmental stage",
             "infection",
@@ -3497,7 +3447,7 @@
         "answer": "seedling stage"
     },
     {
-        "question": "there is the the need to assess the",
+        "question": " there is the the need to assess the suitability of ------ as pathogen free for a",
         "options": [
             "the seeds",
             "the enviroment",
@@ -3508,7 +3458,7 @@
         "answer": "the land"
     },
     {
-        "question": "The chemical used in seed treatment",
+        "question": " The chemical used in seed treatment can be applied in any of the following ways",
         "options": [
             "Solids",
             "semiliquid",
@@ -3519,7 +3469,7 @@
         "answer": "Solids"
     },
     {
-        "question": "The compounds used to treat seeds are",
+        "question": " The compounds used to treat seeds are generally ------- to both man and livestock ",
         "options": [
             "good",
             "edible",
@@ -3530,7 +3480,7 @@
         "answer": "toxic"
     },
     {
-        "question": "In using seed treatment chemicals, one",
+        "question": " In using seed treatment chemicals, one of the following precautions must be",
         "options": [
             "Treat seeds at high moisture content.",
             "treat physically damaged and unviable",
@@ -3541,7 +3491,7 @@
         "answer": "Do not feed treated seeds to livestock"
     },
     {
-        "question": "In order to minimize waste of seeds, it",
+        "question": " In order to minimize waste of seeds, it is important to maintain the planter in -------",
         "options": [
             "Optimum capability",
             "Maximum capacity",
@@ -3552,7 +3502,6 @@
         "answer": "good working condition"
     },
     {
-        "question": "Dormancy of seed is",
         "options": [
             "phase of reduced growth",
             "phase of ageing",
@@ -3563,17 +3512,17 @@
         "answer": "phase of inactive growth"
     },
     {
-        "question": "Nitogen is taken up in form of any one",
+        "question": " Nitogen is taken up in form of any one of the followings",
         "options": [
-            "NO3\u2013,",
-            "Urea,",
+            "NO3\u2013",
+            "Urea",
             "N2 from atmosphere",
             "NH+"
         ],
         "answer": "NO3\u2013,"
     },
     {
-        "question": "Cultural control of crop diseases",
+        "question": " Cultural control of crop diseases involves the:",
         "options": [
             "Use of crop rotation",
             "Use of healthy seeds to plant",
@@ -3584,7 +3533,7 @@
         "answer": "All of the above"
     },
     {
-        "question": "Chemical control of crop diseases",
+        "question": " Chemical control of crop diseases involves the use of :",
         "options": [
             "Nematicides",
             "Insecticides",
@@ -3595,7 +3544,7 @@
         "answer": "All of the above"
     },
     {
-        "question": "\u2026\u2026\u2026. and \u2026\u2026\u2026.. operations should be",
+        "question": "………. and ……….. operations should be restricted to the top soil zone",
         "options": [
             ") Land clearing and Tillage",
             "Ploughing and Harrowing",
@@ -3606,7 +3555,7 @@
         "answer": ") Land clearing and Tillage"
     },
     {
-        "question": "The same temperature and moisture",
+        "question": "The same temperature and moisture conditions in the soil that favour",
         "options": [
             "Pathology",
             "Soil-borne pathogens",
@@ -3617,7 +3566,7 @@
         "answer": "Soil-borne pathogens"
     },
     {
-        "question": "Many crops are more susceptible to",
+        "question": "Many crops are more susceptible to …………. in the seedling stage than at any",
         "options": [
             ") infection",
             "pathogens",
@@ -3628,7 +3577,7 @@
         "answer": "pathogens"
     },
     {
-        "question": "Viability of seed refers to the ability of",
+        "question": " Viability of seed refers to the ability of a seed to germinate and produce a ---------",
         "options": [
             "Abnormal",
             "Normal",
@@ -3639,7 +3588,7 @@
         "answer": "Normal"
     },
     {
-        "question": "Germination test is most commonly",
+        "question": " Germination test is most commonly used to determine -----------",
         "options": [
             "Seed Germination",
             "Seed Abnormality",
@@ -3650,7 +3599,7 @@
         "answer": "Seed viability"
     },
     {
-        "question": "After \u2026\u2026\u2026\u2026\u2026.., the viability of seed",
+        "question": " After …………….., the viability of seed gradually declines",
         "options": [
             "Germination",
             "Physiological Abnormality",
@@ -3661,7 +3610,7 @@
         "answer": "Physiological maturity"
     },
     {
-        "question": "Germination stages includes",
+        "question": "Germination stages includes …………..and all the biochemical and",
         "options": [
             "Water uptake",
             "Water salinity",
@@ -3672,7 +3621,7 @@
         "answer": "Water imbibitions"
     },
     {
-        "question": "Germination stages include all of the",
+        "question": " Germination stages include all of the following except:",
         "options": [
             "Germination",
             "Underground elongation",
@@ -3683,7 +3632,7 @@
         "answer": "Above ground elongation"
     },
     {
-        "question": "The most important reason why we",
+        "question": "The most important reason why we calibrate sprayer before use is not:",
         "options": [
             "to minimize the quantity of water",
             "simply for economic reasons and safety",
@@ -3694,7 +3643,7 @@
         "answer": "to prevent the sprayer from being"
     },
     {
-        "question": "Sprayer calibration is the process of",
+        "question": "Sprayer calibration is the process of determining the ",
         "options": [
             "Quantity of pellets for mixing a given",
             "Rate of water discharge from knapsack",
@@ -3705,7 +3654,7 @@
         "answer": "The quantity of water for mixing a"
     },
     {
-        "question": "That part of the knapsack sprayer that",
+        "question": "That part of the knapsack sprayer that provides passage for spray solution from",
         "options": [
             "Hose .",
             "Boom",
@@ -3716,7 +3665,6 @@
         "answer": "Hose ."
     },
     {
-        "question": "The main function of the nozzle is to",
         "options": [
             "convert spray solution into solid",
             "convert spray solution into droplets.",
@@ -3727,7 +3675,7 @@
         "answer": "convert spray solution into droplets."
     },
     {
-        "question": "The most appropriate unit used in",
+        "question": "The most appropriate unit used in calibration of sprayer is:",
         "options": [
             "meter/sec",
             "meter/hr",
@@ -3738,7 +3686,7 @@
         "answer": "mls/sec"
     },
     {
-        "question": "Which of the following is not a",
+        "question": "Which of the following is not a requirement for calibration? ",
         "options": [
             "Measuring cylinder",
             "Sprayer",
@@ -3749,7 +3697,7 @@
         "answer": "Measuring tape"
     },
     {
-        "question": "The rate of discharge of a spraying",
+        "question": "The rate of discharge of a spraying machine is mostly dependent on one of the",
         "options": [
             "Volume of the spraying liquid",
             "Capacity of the tank",
@@ -3760,7 +3708,7 @@
         "answer": "Type of nozzle used"
     },
     {
-        "question": "The walking speed of a spraying man on",
+        "question": "The walking speed of a spraying man on the field is usually assumed to be:",
         "options": [
             "1 meter per Minute",
             "1 meter per hr",
@@ -3771,7 +3719,7 @@
         "answer": "1 meter per sec."
     },
     {
-        "question": "During the calibration of a sprayer, the",
+        "question": "During the calibration of a sprayer, the following readings obtained per 10sec.",
         "options": [
             "25.5ml/s",
             "22.5ml/s",
@@ -3782,7 +3730,7 @@
         "answer": "22.5ml/s"
     },
     {
-        "question": "From the readings referred to the",
+        "question": "From the readings referred to the above sprayer calibration, calculate the",
         "options": [
             "255ml/s",
             "225ml/s",
@@ -3793,7 +3741,7 @@
         "answer": "225litres/ha"
     },
     {
-        "question": "Which of the following is not a side",
+        "question": "Which of the following is not a side effect of overdose of Agrochemical? ",
         "options": [
             "General Pollution of the environment",
             "Destruction of soil micro-organisms",
@@ -3804,7 +3752,7 @@
         "answer": "Death of forest trees and wild life"
     },
     {
-        "question": "The following are examples of",
+        "question": "The following are examples of broadleaves except",
         "options": [
             "Chromolaena odorata",
             "Euphorbia hirta",
@@ -3815,7 +3763,7 @@
         "answer": "Angdopogon gayanus"
     },
     {
-        "question": "The following are examples of grass",
+        "question": "The following are examples of grass weeds except",
         "options": [
             "Synedrella nodiflora",
             "Eleusine indica",
@@ -3826,7 +3774,6 @@
         "answer": "Synedrella nodiflora"
     },
     {
-        "question": "An example of sedge is",
         "options": [
             "Rottboellia cochinchinensis",
             "Tridax procumbens",
@@ -3837,7 +3784,7 @@
         "answer": "Cyperus rotundus"
     },
     {
-        "question": "The detrimental effect of chemical or",
+        "question": "The detrimental effect of chemical or exudates produced by one living plant",
         "options": [
             "Allelospoly",
             "Allelomediation",
@@ -3848,7 +3795,7 @@
         "answer": "Allelopathy"
     },
     {
-        "question": "Cultural weed control involves the",
+        "question": "Cultural weed control involves the following except",
         "options": [
             "Burning",
             "Flooding",
@@ -3859,7 +3806,7 @@
         "answer": "Quarantine laws"
     },
     {
-        "question": "The use of mycoherbicides is an",
+        "question": "The use of mycoherbicides is an example of",
         "options": [
             "Chemical weed control",
             "Biological weed control",
@@ -3870,7 +3817,7 @@
         "answer": "Biological weed control"
     },
     {
-        "question": "The combination of two or more weed",
+        "question": "The combination of two or more weed control measure to obtain a level of weed",
         "options": [
             "Preventive weed control",
             "Chemical weed control",
@@ -3881,7 +3828,7 @@
         "answer": "Integrated weed control"
     },
     {
-        "question": "Weeds can be classified based on the",
+        "question": "Weeds can be classified based on the following except:",
         "options": [
             "Morphology",
             "Life cycle",
@@ -3892,7 +3839,7 @@
         "answer": "Harvesting"
     },
     {
-        "question": "The use of Cactoblastis moth to",
+        "question": " The use of Cactoblastis moth to control Opuntia is an example of ",
         "options": [
             "microbial Weed control",
             "Manual Weed control",
@@ -3903,7 +3850,7 @@
         "answer": "Macrobial Weed control"
     },
     {
-        "question": "Which of these is not a characteristics",
+        "question": "Which of these is not a characteristics of weeds ; ",
         "options": [
             "Persistent and resistant to control",
             "High reproductive capacity",
@@ -3914,7 +3861,7 @@
         "answer": "Growing in desirable location"
     },
     {
-        "question": "Weeds cause reduction in crop yield",
+        "question": "Weeds cause reduction in crop yield through competition for:",
         "options": [
             "Sand",
             "nutrient",
@@ -3925,7 +3872,7 @@
         "answer": "nutrient"
     },
     {
-        "question": "Proper identification of weeds in",
+        "question": " Proper identification of weeds in agriculture is essential for:",
         "options": [
             "Effective weed ranking",
             "Efficient weed analysis",
@@ -3936,7 +3883,7 @@
         "answer": "Effective weed control"
     },
     {
-        "question": "In grass weeds the length to breadth",
+        "question": "In grass weeds the length to breadth ratio is ",
         "options": [
             "Short",
             "Low",
@@ -3947,7 +3894,7 @@
         "answer": "High"
     },
     {
-        "question": "Sida acuta is an example of",
+        "question": "Sida acuta is an example of <C+>Broadleaf",
         "options": [
             "Broadleaf",
             "Grass",
@@ -3958,18 +3905,18 @@
         "answer": "Broadleaf"
     },
     {
-        "question": "Example of grasses include the",
+        "question": "Example of grasses include the following:",
         "options": [
-            "Cyperus rotundus, Talinum trigulare,",
+            "Cyperus rotundus, Talinum trigulare",
             "Axonopus compressus, Sporobolus",
             "Sporobolus pyramidalis, Cyperus",
-            "Eleusine indica, Mariscus alternifolius,",
+            "Eleusine indica, Mariscus alternifolius",
             "Axonopus compressus, Talinum"
         ],
         "answer": "Axonopus compressus, Sporobolus"
     },
     {
-        "question": "The following is the major effect of",
+        "question": "The following is the major effect of plant canopy:",
         "options": [
             "Boost the understorey plant",
             "Shade the understorey plant and limit",
@@ -3991,7 +3938,7 @@
         "answer": "Have the ability to suppress certain"
     },
     {
-        "question": "Biological weed control involves the",
+        "question": "Biological weed control involves the following except:",
         "options": [
             "Use of Live mulch",
             "Macrobial weed control",
@@ -4002,7 +3949,6 @@
         "answer": "Use of adjuvants"
     },
     {
-        "question": "Sprayer can be calibrated using :",
         "options": [
             "Volume-time and time volume",
             "Time-volume and area volume",
@@ -4013,7 +3959,7 @@
         "answer": "Time-volume and area volume"
     },
     {
-        "question": "Proper weed identification is very",
+        "question": "Proper weed identification is very essential because:",
         "options": [
             "It assists in effective livestock",
             "It assists in effective weed control and",
@@ -4024,7 +3970,7 @@
         "answer": "It assists in effective weed control and"
     },
     {
-        "question": "Cyperus rotundus is very persistence",
+        "question": "Cyperus rotundus is very persistence and resistant to control because:",
         "options": [
             "It possesses a leaf bulbil",
             "it has no tuber",
@@ -4035,7 +3981,6 @@
         "answer": "it has well- developed tubers and"
     },
     {
-        "question": "Ruderal weeds are:",
         "options": [
             "weeds of pawpaw field",
             "weeds of non-cropped area",
@@ -4046,7 +3991,6 @@
         "answer": "weeds of non-cropped area"
     },
     {
-        "question": "Examples of floating aquatic weeds is:",
         "options": [
             "Siam weed",
             "water hyacinth",
@@ -4068,7 +4012,7 @@
         "answer": "woody stem weeds"
     },
     {
-        "question": "Which of these is not a negative effect",
+        "question": "Which of these is not a negative effect of weeds?",
         "options": [
             "Reduction in quality of harvested",
             "increase in cost of production",
@@ -4079,7 +4023,7 @@
         "answer": "reduction in soil erosion"
     },
     {
-        "question": "Using insects to control weeds is an",
+        "question": "Using insects to control weeds is an example of:",
         "options": [
             "Biological weed control",
             "Mechanical weed control",
@@ -4090,7 +4034,7 @@
         "answer": "Biological weed control"
     },
     {
-        "question": "Which of these possesses rhizome as its",
+        "question": "Which of these possesses rhizome as its adaptive feature for survival?",
         "options": [
             "Chromolaenae odorata",
             "Imperata cylindrical",
@@ -4101,7 +4045,7 @@
         "answer": "Imperata cylindrical"
     },
     {
-        "question": "Weeds reduce crop yield through",
+        "question": "Weeds reduce crop yield through competition for:",
         "options": [
             "silver",
             "Rice",
@@ -4112,7 +4056,7 @@
         "answer": "Light"
     },
     {
-        "question": "Uncontrolled weed infestation could",
+        "question": "Uncontrolled weed infestation could lead to:",
         "options": [
             "0% yield loss",
             "100% yield loss",
@@ -4123,7 +4067,7 @@
         "answer": "100% yield loss"
     },
     {
-        "question": "Which of the following weeds is",
+        "question": "Which of the following weeds is poisonous to livestock?",
         "options": [
             "Ageratum conyzoides",
             "Aspilia africana",
@@ -4134,7 +4078,7 @@
         "answer": "Amaranthus spinosus"
     },
     {
-        "question": "Which of the following weeds is used as",
+        "question": "Which of the following weeds is used as vegetable?",
         "options": [
             "Ageratum conyzoides",
             "Panicum maximum",
@@ -4145,7 +4089,7 @@
         "answer": "Talinum trigulare"
     },
     {
-        "question": "Weeds that live as independent",
+        "question": "Weeds that live as independent organisms and manufacture their own food",
         "options": [
             "Parasitic weeds",
             "free living weeds",
@@ -4156,7 +4100,7 @@
         "answer": "free living weeds"
     },
     {
-        "question": "Chrysanthemum cinerariifolium weed is",
+        "question": "Chrysanthemum cinerariifolium weed is a source of pesticide called",
         "options": [
             "Pyrethrum",
             "Shaperplus",
@@ -4166,7 +4110,7 @@
         "answer": "Pyrethrum"
     },
     {
-        "question": "A grass weed can be differentiated from",
+        "question": "A grass weed can be differentiated from a broadleaf weed by",
         "options": [
             "the possession of parallel and net",
             "Possession of hair",
@@ -4177,7 +4121,7 @@
         "answer": "the possession of parallel and net"
     },
     {
-        "question": "Which of the following is not a cultural",
+        "question": "Which of the following is not a cultural method of weed control?",
         "options": [
             "Tillage",
             "Burning",
@@ -4188,7 +4132,7 @@
         "answer": "Fallowing"
     },
     {
-        "question": "The following are examples of annual",
+        "question": "The following are examples of annual weeds except",
         "options": [
             "Imperata cylindrical",
             "Euphorbia heterophylla",
@@ -4199,7 +4143,7 @@
         "answer": "Imperata cylindrical"
     },
     {
-        "question": "Which of these statements is true",
+        "question": "Which of these statements is true about Aquatic weeds?",
         "options": [
             "weeds growing inside, within or on",
             "weeds growing within plantain farm",
@@ -4210,7 +4154,6 @@
         "answer": "weeds growing inside, within or on"
     },
     {
-        "question": "Which of these is a selective herbicide?",
         "options": [
             "glyphosate",
             "atrazine",
@@ -4221,7 +4164,7 @@
         "answer": "atrazine"
     },
     {
-        "question": "Paraquat is an example of",
+        "question": "Paraquat is an example of <C+>contact herbicide",
         "options": [
             "contact herbicide",
             "non-systemic herbicide",
@@ -4232,7 +4175,7 @@
         "answer": "contact herbicide"
     },
     {
-        "question": "Agrestal weeds are weeds of",
+        "question": "Agrestal weeds are weeds of <C+>cultivated crops",
         "options": [
             "cultivated crops",
             "football fields",
@@ -4243,7 +4186,7 @@
         "answer": "cultivated crops"
     },
     {
-        "question": "Which of these is not a preventive",
+        "question": "Which of these is not a preventive weed controlmethod?",
         "options": [
             "fallowing",
             "preventing weeds from setting seeds",
@@ -4254,7 +4197,7 @@
         "answer": "tillage"
     },
     {
-        "question": "The use of flooding to control weeds is",
+        "question": "The use of flooding to control weeds is most practised in ",
         "options": [
             "Groundnut cultivation",
             "rice cultivation",
@@ -4265,7 +4208,7 @@
         "answer": "rice cultivation"
     },
     {
-        "question": "A farmer intends to spray his farm with",
+        "question": "A farmer intends to spray his farm with a preemergence herbicide at the rate of 5",
         "options": [
             "200 ml",
             "300 ml",
@@ -4276,7 +4219,7 @@
         "answer": "200 ml"
     },
     {
-        "question": "Assuming the discharge rate of a",
+        "question": "Assuming the discharge rate of a knapsack sprayer is 300 Litres/ha. Using a",
         "options": [
             "10 times",
             "20 times",
@@ -4287,7 +4230,7 @@
         "answer": "15 times"
     },
     {
-        "question": "The following are the effects of",
+        "question": "The following are the effects of overdose of pesticides except",
         "options": [
             "pollution",
             "fertilisation",
@@ -4298,7 +4241,6 @@
         "answer": "fertilisation"
     },
     {
-        "question": "Organic agriculture is all about:",
         "options": [
             "Use of inputs mostly from organic",
             "Use of inputs only from organic",
@@ -4309,7 +4251,6 @@
         "answer": "Use of inputs only from organic"
     },
     {
-        "question": "Organic agriculture generally",
         "options": [
             "Involves use of primitive farm tools",
             "Involves use of primitive farm technics",
@@ -4320,7 +4261,7 @@
         "answer": "Is environmental friendly"
     },
     {
-        "question": "Use of Organic manure helps to",
+        "question": " Use of Organic manure helps to <C+>Improve soil sructure ",
         "options": [
             "Improve soil sructure",
             "Destroy microbes",
@@ -4331,7 +4272,6 @@
         "answer": "Improve soil sructure"
     },
     {
-        "question": "Organic manures",
         "options": [
             "Can be raised easily for mechanize",
             "Can change the genetic traits of food",
@@ -4342,7 +4282,7 @@
         "answer": "Are not easy to come by for mechanize"
     },
     {
-        "question": "Organic manures are not easy to",
+        "question": " Organic manures are not easy to transport because",
         "options": [
             "They are mostly bulky in nature",
             "They are mostly toxic in nature",
@@ -4353,7 +4293,6 @@
         "answer": "They are mostly bulky in nature"
     },
     {
-        "question": "Organically produced crops often",
         "options": [
             "Are bigger than others",
             "Taste better than others",
@@ -4364,7 +4303,6 @@
         "answer": "Taste better than others"
     },
     {
-        "question": "Organically produced crops are often",
         "options": [
             "bigger than the others",
             "More expensive than those produced",
@@ -4375,7 +4313,6 @@
         "answer": "More expensive than those produced"
     },
     {
-        "question": "Organically produced crops are often",
         "options": [
             "Difficult to produce",
             "Full of empty grains",
@@ -4386,7 +4323,6 @@
         "answer": "Free from toxic elements compared"
     },
     {
-        "question": "Organic agriculture is all about:",
         "options": [
             "Use of inputs mostly from organic",
             "Use of inputs only from organic",
@@ -4397,7 +4333,6 @@
         "answer": "Use of inputs only from organic"
     },
     {
-        "question": "Organic manure are mainly from:",
         "options": [
             "Industrial waste and plant materials",
             "Farm waste and industrial nitrogen",
@@ -4408,7 +4343,7 @@
         "answer": "Animal and plant origin"
     },
     {
-        "question": "Use of Organic manure",
+        "question": " Use of Organic manure ",
         "options": [
             "Increases soil acidity",
             "Reduces underground water pollution",
@@ -4419,7 +4354,7 @@
         "answer": "Reduces underground water pollution"
     },
     {
-        "question": "Use of Organic manure of animal waste",
+        "question": " Use of Organic manure of animal waste origin ",
         "options": [
             "Gives higer yield than those of plant",
             "Increases weeds population rapidly",

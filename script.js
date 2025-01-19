@@ -12,7 +12,7 @@ let selectedQuestions = [];
         .catch(error => console.error('Error loading questions:', error));
 
     function startQuizApp(questions) {
-        selectedQuestions = getRandomQuestions(questions, 70); // Select 10 random questions
+        selectedQuestions = getRandomQuestions(questions, 70); // Select 70 random questions
 
         document.getElementById('startButton').addEventListener('click', startQuiz);
         document.getElementById('stopButton').addEventListener('click', submitQuiz);
