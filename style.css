@@ -1,0 +1,21 @@
+.option-button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+    transition: all 0.3s ease;
+}
+.option-button.correct {
+    background-color: #28a745;
+    color: white;
+}
+.option-button.incorrect {
+    background-color: #dc3545;
+    color: white;
+}
+.timer {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
