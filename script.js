@@ -66,18 +66,27 @@ let selectedQuestions = [];
 
 
         function checkAnswer(selectedOption, button) {
-            const question = selectedQuestions[currentQuestionIndex];
-            if (selectedOption === question.answer) {
-                score++;
-                button.classList.add('correct');
-            } else {
-                button.classList.add('incorrect');
+    const question = selectedQuestions[currentQuestionIndex];
+
+    if (selectedOption === question.answer) {
+        score++;
+        button.classList.add('correct');
+    } else {
+        button.classList.add('incorrect');
+        // Highlight the correct answer
+        const options = document.getElementById('options').children;
+        for (let optionButton of options) {
+            if (optionButton.textContent === question.answer) {
+                optionButton.classList.add('correct');
             }
-            setTimeout(() => {
-                currentQuestionIndex++;
-                showQuestion();
-            }, 1000);
         }
+    }
+
+    setTimeout(() => {
+        currentQuestionIndex++;
+        showQuestion();
+    }, 1000);
+}
 
         function submitQuiz() {
             clearInterval(timer);
