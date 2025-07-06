@@ -4,7 +4,7 @@ let selectedQuestions = [];
     let timer;
 
     // Fetch questions from JSON file
-    fetch('quiz_questions.json') // Make sure the JSON file is in the same directory as this HTML
+    fetch('quiz_questions.json')
         .then(response => response.json())
         .then(data => {
             startQuizApp(data);
@@ -20,7 +20,7 @@ let selectedQuestions = [];
         function startQuiz() {
             document.getElementById('startContainer').classList.add('d-none');
             document.getElementById('quizContainer').classList.remove('d-none');
-            startTimer(20 * 60); // 20 minutes
+            startTimer(25 * 60); // 20 minutes
             showQuestion();
         }
 
